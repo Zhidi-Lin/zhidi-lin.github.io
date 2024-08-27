@@ -40,10 +40,10 @@ Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis
 - <b>[Preventing model collapse in Gaussian process latent variable models](https://openreview.net/pdf?id=4byOXWrJay)  [[code]](https://github.com/zhidilin/advisedGPLVM) </b><br>
 Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <em>International Conference on Machine Learning (ICML)</em>, 2024. <be>
 
-- <b>Towards efficient modeling and inference in multi-dimensional Gaussian process state-space models  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
+- <b>[Towards efficient modeling and inference in multi-dimensional Gaussian process state-space models](https://ieeexplore.ieee.org/document/10447126)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
  <b>Zhidi Lin</b>, Juan Maroñas, Ying Li, Feng Yin, and Sergios Theodoridis. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
 
-- <b>Regularization-Based Efficient Continual Learning in Deep State-Space Models </b><br>
+- <b>[Regularization-Based Efficient Continual Learning in Deep State-Space Models]() </b><br>
  Yuanhang Zhang, <b>Zhidi Lin</b>, Yiyong Sun, Feng Yin, and Carsten Fritsche. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
 
 - <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
