@@ -9,26 +9,12 @@ pubs:
 
 ### Topic: IoT Network Security
 
-  - author: "Haozhen Wang, **Xinyu Huang**, Yuanming Wu"
-    title: "GD3N: Adaptive Clustering-Based Detection of Selective Forwarding Attacks in WSNs under Variable Harsh Environments"
-    month: "Feburary"
+  - author: "**Zhidi LIN**"
+    title: "See my my full list of publications on Google Scholar"
+    month: "Aug"
     year: "2024"
-    booktitle: "Information Sciences (INS)"
-    url: "https://www.sciencedirect.com/science/article/pii/S0020025524002883"
-
-  - author: "**Xinyu Huang**, Shunan Li, Yuanming Wu"
-    title: "LSTM-NV: A Combined Scheme against Selective Forwarding Attack in Event-Driven Wireless Sensor Networks under Harsh Environments"
-    month: "May"
-    year: "2023"
-    booktitle: "Engineering Applications of Artificial Intelligence (EAAI)"
-    url: "https://www.sciencedirect.com/science/article/pii/S0952197623006255"
-    
-  - author: "**Xinyu Huang**, Yuanming Wu"
-    title: "Identify Selective Forwarding Attacks Using Danger Model: Promote the Detection Accuracy in Wireless Sensor Networks"
-    month: "May"
-    year: "2022"
-    booktitle: "IEEE Sensors Journal"
-    url: "https://ieeexplore.ieee.org/abstract/document/9755128"
+    booktitle: ""
+    url: "https://scholar.google.com/citations?user=8BmRXqMAAAAJ&hl=en"
 
 
 ---
@@ -49,4 +35,3 @@ pubs:
     {% endif %}
 {% endunless %}
 {% endfor %}
-

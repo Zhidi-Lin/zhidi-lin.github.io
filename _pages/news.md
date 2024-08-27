@@ -9,25 +9,15 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-- 13-16 May 2024: Attend the [CPS-IoT Week 2024](https://cps-iot-week2024.ie.cuhk.edu.hk/), Hong Kong Science Park, Hong Kong.
-
-- 12 May 2024: Attend the [AIoT for Industry 4.0 Workshop](https://wands.sg/team/workshop/aiot_for_industry_4.0/), HKUST, Hong Kong.
-
-- 1 May 2024: Become a PhD student of Department of Computing, [HK PolyU](https://www.polyu.edu.hk/).
-
-- Feb 2024: One co-author paper has been accepted by [Information Sciences](https://www.sciencedirect.com/journal/information-sciences). Congrats to Haozhen!
-
-- Jan 2024: Start my new life in Hong Kong.
-
-- Dec 2023: Receive the admission PhD offer from PolyU with full scholarships!
-
-- Nov 2023: Leave Shenzhen and prepare to welcome new life in Hong Kong.
-
-- Sep 2023: Join the [Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en) as a PhD student.
-
-- Jun 2023: Graduate from UESTC and obtain my BEng degree.
-
-- Apr 2023: My second paper has been accepted by [Engineering Applications of Artificial Intelligence](https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence).
-
-- Apr 2022: My first paper has been accepted by [IEEE Sensors Journal](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7361).
+- 2024.08: Our paper entitled ["Ensemble Kalman Filtering Meets Gaussian Process SSM for Non-Mean-Field and Online Inference"](https://doi.org/10.1109/TSP.2024.3448291) was accepted by _IEEE Transactions on Signal Processing_.
+- 2024.08: Invited to serve as Reviewer for ICLR 2025.
+- 2024.06: I joined NUS as a Research Fellow
+- 2024.06.13: I successfully defended my PhD
+- 2024.05: One paper was accepted by ICML 2024, and one paper was accepted by IEEE FUSION 2024
+- 2023.02: Paper entitled "[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/10095784)" has been accepted by *IEEE ICASSP 2023.*
+- 2022.05: Paper entitled "[Gaussian Process Regression with Grid Spectral Mixture Kernel: Distributed Learning for Multidimensional Data](<https://ieeexplore.ieee.org/document/9841347>)" has been accepted by *IEEE FUSION 2022*. 
+- 2022.01.05: I pass the Ph.D. Qualifying Examination and become a **Ph.D. candidate**.
+- 2021.02: Paper entitled "[Graph Neural Network for Large-Scale Network Localization](https://ieeexplore.ieee.org/document/9414520)" has been accepted by *IEEE ICASSP 2021.*
+- 2020.11.06: Review paper (**29-page**) entitled "[FedLoc: Federated Learning Framework for Data-Driven Cooperative Localization and Location Data Processing](https://ieeexplore.ieee.org/document/9250516)" has been published in *IEEE Open Journal of Signal Processing*.
+- 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
 

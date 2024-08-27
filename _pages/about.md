@@ -15,23 +15,37 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-### 👨🏻‍🎓 Biography
-Welcome! My name is Xinyu Huang and I am currently working towards my Ph.D. degree at the [Department of Computing, The Hong Kong Polytechnic University (HK PolyU)](https://www.polyu.edu.hk/comp/), concerning the related techniques of **Artificial Intelligence of Things (AIoT)**, under the supervision of [Dr. Yuanqing Zheng](https://www4.comp.polyu.edu.hk/~csyqzheng/). Before that, I received my B.Eng. degree at the [University of Electronic Science and Technology of China (UESTC)](https://www.en.uestc.edu.cn/), collaborating with [Prof. Yuanming Wu](https://faculty.uestc.edu.cn/wuyuanming/zh_CN/index/173473/list/index.htm) for around 2 years and have accomplished several journal papers on the topic of **IoT Security**.
+### 👨🏻‍🎓 About Me
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I am **Zhidi Lin (林志地)**, a Research Fellow collaborating with [Alexandre Thiéry](https://alexxthiery.github.io/) and [Jeremy Heng](https://sites.google.com/view/jeremyheng/) on inference in high-dimensional dynamical systems using techniques from control theory and generative modeling.
+Previously, I earned my Ph.D. in Computer and Information Engineering at [The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)](https://www.cuhk.edu.cn/en), under the supervision of [Prof. Feng Yin](https://blsp-group.github.io/) and [Prof. Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). Prior to my Ph.D. studies, I received my M.Sc. degree from [Xiamen University](https://en.xmu.edu.cn/) in 2019, under the supervision of Prof. Qi Yang and [Prof. Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong). From Aug. 2017 to Mar. 2019, I was a research associate at [Shenzhen Research Institute of Big Data](http://www.sribd.cn/en) (SRIBD), working with [Prof. Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and [Prof. Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en). 
 
-For more information, please refer to my up-to-date [Curriculum Vitae](https://unixyhuang.github.io/CV_2024.pdf).
 
-### 📝 Something to Say...
-Born in a small town of Jiangxi Province, China, in 2001, I was given the name Xinyu (心宇), which in Chinese means **holding the whole universe in one's heart**. True to my name, I have always been eager to explore the wonders of the world. My curiosity has led me to a wide range of interests, from playing instruments like the saxophone and violin to engaging in sports such as basketball, ping-pong, and badminton. I also have a deep fascination with philosophy and politics (but sometimes finding myself lost in countless thoughts...). My diverse interests inspire me to embrace the world as a life artist, continually exploring and creating. This passion for discovery is also the reason why I decided to pursue a PhD degree.
+### 📝 Research Interests
+I am currently focused on research areas that include:
+- Data-driven dynamical system modeling
+- Approximate Bayesian inference
+- Data assimilation
+- Gaussian processes
 
-### 🤓 Research Interests
-My current research interests include but are not limited to:
-- Artificial Intelligence of Things (AIoT)
-- Large Language Models (LLM)
-- Human-Computer Interactions (HCI)
-- Security and Privacy
+# 🔥 News
+- 2024.08: Our paper ["Ensemble Kalman Filtering Meets Gaussian Process SSM for Non-Mean-Field and Online Inference"](https://doi.org/10.1109/TSP.2024.3448291) was accepted by _IEEE Transactions on Signal Processing_.
+- 2024.08: Invited to serve as Reviewer for ICLR 2025.
+- 2024.06: I joined NUS as a Research Fellow
+- 2024.06.13: I successfully defended my PhD
 
-### 📧 Contacts
-If you are willing to share some interesting thoughts about life and research, please feel free to contact me:
-- Email: xyhuang [AT] ieee.org
-- Office: QT404, Chow Yei Ching Building, HK PolyU, Hung Hom, Kowloon, Hong Kong
+  
+
+### 🤓 Miscellanies
+- <b>Languages</b> -- Mandarin (native), English (fluent), Hokkien (native)  
+- <b>Sports</b> -- Badminton 🏸, Swimming 🏊‍♂️, ... 
+- <b>Leadership/Community activities</b>  
+  * Residential Tutor, [Diligentia College](https://diligentia.cuhk.edu.cn/en/teacher-search?keywords=&alphabet=All&category=All&academic=All&class_type=All&tag=All&floor=All&page=2), CUHK-Shenzhen, China.
+
+
+### 📧 Contact
+- **Email**: zhidilin [AT] nus.edu.sg
+- **Address**: Department of Statistics and Data Science, NUS Block S16, Level 8, 6 Science Drive 2, Singapore 117546
+
+
+<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=480&t=tt&d=vH8fQRnhHz5RJKfd1EBio7_0GPYts_KeV8P-I3keHSY'></script>
 
