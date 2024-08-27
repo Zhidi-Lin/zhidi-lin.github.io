@@ -23,6 +23,9 @@ nav_order: 2
 </div></div> -->
 
 ## Journal
+- <b>[Ensemble Kalman filtering meets Gaussian process SSM for non-mean-field and online inference](<https://ieeexplore.ieee.org/document/10643488>)</b><br>
+ <b>Zhidi Lin</b>,  Yiyong Sun, Feng Yin, and Alexandre Hoang Thiéry. <em>IEEE Transactions on Signal Processing</em>, August 2024. <br>
+
 - <b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
 Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
 
@@ -34,8 +37,17 @@ Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis
 
 
 ## Conference
+- <b>[Preventing model collapse in Gaussian process latent variable models](https://openreview.net/pdf?id=4byOXWrJay)  [[code]](https://github.com/zhidilin/advisedGPLVM) </b><br>
+Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <em>International Conference on Machine Learning (ICML)</em>, 2024. <be>
+
+- <b>Towards efficient modeling and inference in multi-dimensional Gaussian process state-space models  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
+ <b>Zhidi Lin</b>, Juan Maroñas, Ying Li, Feng Yin, and Sergios Theodoridis. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
+
+- <b>Regularization-Based Efficient Continual Learning in Deep State-Space Models </b><br>
+ Yuanhang Zhang, <b>Zhidi Lin</b>, Yiyong Sun, Feng Yin, and Carsten Fritsche. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
+
 - <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
-<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
+<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu, and Shuguang Cui. <em>IEEE  International Conference on Information Fusion (FUSION)</em>, 2024. <br>
   
 - <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
 Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>The 25th International Conference on Information Fusion (FUSION)</em>, 2022. <br>
