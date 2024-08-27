@@ -3,6 +3,14 @@
 ---
 @charset "utf-8";
 
+a {
+  color: #0000FF; /* 蓝色 */
+}
+
+a:hover {
+  color: #FF0000; /* 红色 */
+}
+
 // Dimensions
 $max-content-width: {{ site.max_width }};
 
