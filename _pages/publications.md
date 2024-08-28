@@ -47,7 +47,7 @@ Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <em>Internatio
  Yuanhang Zhang, <b>Zhidi Lin</b>, Yiyong Sun, Feng Yin, and Carsten Fritsche. <em>IEEE International Conference on Information Fusion (FUSION)</em>, 2024. <br>
 
 - <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
-<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu, and Shuguang Cui. <em>IEEE  International Conference on Information Fusion (FUSION)</em>, 2024. <br>
+<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu, and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
   
 - <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
 Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>IEEE International Conference on Information Fusion (FUSION)</em>, 2022. <br>
