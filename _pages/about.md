@@ -28,8 +28,8 @@ I am currently focused on research areas that include:
 - Gaussian processes
 
 ### 🔥 News
+- 2024.09: Invited to serve as Reviewer for ICLR 2025, AISTATS 2025.
 - 2024.08: Our paper ["Ensemble Kalman Filtering Meets Gaussian Process SSM for Non-Mean-Field and Online Inference"](https://doi.org/10.1109/TSP.2024.3448291) was accepted by _IEEE Transactions on Signal Processing_.
-- 2024.08: Invited to serve as Reviewer for ICLR 2025.
 - 2024.06: I joined NUS as a Research Fellow
 - 2024.06.13: I successfully defended my PhD
 
