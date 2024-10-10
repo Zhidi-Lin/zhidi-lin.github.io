@@ -25,7 +25,7 @@ horizontal: false
 - **Towards Efficient Modeling and Inference in Multi-Dimensional Gaussian Process State-Space Models**
 
 
-###### **19 Apr 2024**: Contributed talk at the Doctoral Research Conference, SSE, CUHK-Shenzhen ([First Prize Award]())
+###### **15 Dec 2023**: Contributed talk at the Doctoral Research Conference, SSE, CUHK-Shenzhen ([First Prize Award]())
 - **Towards Flexibility, Scalability, and Interpretability of Gaussian Process State-Space Models**
 
 ##### **Notes:**
