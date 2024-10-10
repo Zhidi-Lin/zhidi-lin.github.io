@@ -41,39 +41,49 @@ nav_order: 2
 
 ## Conference
 - <b>[Preventing model collapse in Gaussian process latent variable models](https://openreview.net/pdf?id=4byOXWrJay)  [[code]](https://github.com/zhidilin/advisedGPLVM) </b><br>
-<em>International Conference on Machine Learning (ICML)</em>, 2024. <be>
+<em>International Conference on Machine Learning (ICML)</em>, 2024. <br>
 Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <be>
 
 - <b>[Towards efficient modeling and inference in multi-dimensional Gaussian process state-space models](https://ieeexplore.ieee.org/document/10447126)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
- <b>Zhidi Lin</b>, Juan Maroñas, Ying Li, Feng Yin, and Sergios Theodoridis. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
+<em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
+ <b>Zhidi Lin</b>, Juan Maroñas, Ying Li, Feng Yin, and Sergios Theodoridis. <br>
 
 - <b>[Regularization-Based Efficient Continual Learning in Deep State-Space Models]() </b><br>
- Yuanhang Zhang, <b>Zhidi Lin</b>, Yiyong Sun, Feng Yin, and Carsten Fritsche. <em>IEEE International Conference on Information Fusion (FUSION)</em>, 2024. <br>
+ <em>IEEE International Conference on Information Fusion (FUSION)</em>, 2024. <br>
+ Yuanhang Zhang, <b>Zhidi Lin</b>, Yiyong Sun, Feng Yin, and Carsten Fritsche.<br>
 
 - <b>[Output-dependent Gaussian process state-space model](https://ieeexplore.ieee.org/document/10095784)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
-<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu, and Shuguang Cui. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
+<em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2023. <br>
+<b>Zhidi Lin</b>, Lei Cheng, Feng Yin, Lexi Xu, and Shuguang Cui. <br>
   
 - <b>[Gaussian process regression with grid spectral mixture kernel: Distributed learning for multidimensional data](<https://ieeexplore.ieee.org/document/9841347>)  [[code]](<https://github.com/richardcsuwandi/distributed-gsm>) </b><br>
-Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <em>IEEE International Conference on Information Fusion (FUSION)</em>, 2022. <br>
+ <em>IEEE International Conference on Information Fusion (FUSION)</em>, 2022. <br>
+Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Yiyong Sun, Zhiguo Wang, Lei Cheng, and Feng Yin. <br>
 
 - <b>[Graph neural network for large-scale network localization](<https://ieeexplore.ieee.org/abstract/document/9414520>)  [[code]](<https://github.com/Yanzongzi/GNN-For-localization>)</b><br>
-Wenzhong Yan, Di Jin, <b>Zhidi Lin</b>, Feng Yin. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2021. <br>
+<em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2021. <br>
+Wenzhong Yan, Di Jin, <b>Zhidi Lin</b>, Feng Yin. <br>
 
 - <b>[An interpretable and sample efficient deep kernel for Gaussian process](<http://proceedings.mlr.press/v124/dai20a.html>)</b><br>
-Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shuguang Cui. <em> Conference on Uncertainty in Artificial Intelligence (UAI)</em>, 2020. <br>
+<em> Conference on Uncertainty in Artificial Intelligence (UAI)</em>, 2020. <br>
+Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shuguang Cui. <br>
 
 - <b>[A flexible approach for human activity recognition based on broad learning system](<https://dl.acm.org/doi/abs/10.1145/3318299.3318318>)</b><br>
-<b>Zhidi Lin</b>, Haipeng Chen, Qi Yang, Xuemin Hong. <em> International Conference on Machine Learning and Computing (ICMLC)</em>, 2019. <br>
+ <em> International Conference on Machine Learning and Computing (ICMLC)</em>, 2019. <br>
+<b>Zhidi Lin</b>, Haipeng Chen, Qi Yang, Xuemin Hong.<br>
 
 
 - <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/document/8974949>)</b><br>
-<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Sustainable Power and Energy Conference, (iSPEC)</em>, 2019. <br>
+<em> IEEE Sustainable Power and Energy Conference, (iSPEC)</em>, 2019. <br>
+<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <br>
 
 - <b>[One-class classifier based fault detection in distribution systems with distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/8646526>)</b><br>
-<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <em> IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, 2018. <br>
+<em> IEEE Global Conference on Signal and Information Processing (GlobalSIP)</em>, 2018. <br>
+<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xiang Cheng, Liuqing Yang, Shuguang Cui. <br>
 
 - <b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset](<https://ieeexplore.ieee.org/abstract/document/8641222>)</b><br>
-Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
+<em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
+Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <br>
 
 
 {% for pub in page.pubs %}
