@@ -27,18 +27,22 @@ nav_order: 2
  <b>Zhidi Lin</b>,  Yiyong Sun, Feng Yin, and Alexandre Hoang Thiéry. <br>
 
 - <b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
-Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
+ <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
+ Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <br>
 
 - <b>[One-Class classifier based fault detection in distribution systems with varying penetration levels of distributed energy resources](<https://ieeexplore.ieee.org/abstract/document/9141286>)</b><br>
-<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>IEEE Access</em>, vol. 8, pp. 130023-130035, July 2020. <br>
+<em>IEEE Access</em>, vol. 8, pp. 130023-130035, July 2020. <br>
+<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <br>
   
 - <b>[Data-driven fault localization in distribution systems with distributed energy resources](<https://www.mdpi.com/1996-1073/13/1/275>)</b><br>
-<b>Zhidi Lin</b>,  Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
+ <em>Energies</em>, vol. 13, no. 1, pp. 275, January 2020. <br>
+<b>Zhidi Lin</b>, Dongliang Duan, Qi Yang, Xuemin Hong, Xiang Cheng, Liuqing Yang and Shuguang Cui. 
 
 
 ## Conference
 - <b>[Preventing model collapse in Gaussian process latent variable models](https://openreview.net/pdf?id=4byOXWrJay)  [[code]](https://github.com/zhidilin/advisedGPLVM) </b><br>
-Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <em>International Conference on Machine Learning (ICML)</em>, 2024. <be>
+<em>International Conference on Machine Learning (ICML)</em>, 2024. <be>
+Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <be>
 
 - <b>[Towards efficient modeling and inference in multi-dimensional Gaussian process state-space models](https://ieeexplore.ieee.org/document/10447126)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
  <b>Zhidi Lin</b>, Juan Maroñas, Ying Li, Feng Yin, and Sergios Theodoridis. <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
