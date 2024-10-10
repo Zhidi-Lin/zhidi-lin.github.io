@@ -23,8 +23,8 @@ nav_order: 2
 </div></div> -->
 
 ## Journal
-- <b>[Ensemble Kalman filtering meets Gaussian process SSM for non-mean-field and online inference](<https://ieeexplore.ieee.org/document/10643488>)</b><br>
- <b>Zhidi Lin</b>,  Yiyong Sun, Feng Yin, and Alexandre Hoang Thiéry. <em>IEEE Transactions on Signal Processing</em>, August 2024. <br>
+- <b>[Ensemble Kalman filtering meets Gaussian process SSM for non-mean-field and online inference](<https://ieeexplore.ieee.org/document/10643488>)</b><br> <em>IEEE Transactions on Signal Processing</em>, August 2024. <br>
+ <b>Zhidi Lin</b>,  Yiyong Sun, Feng Yin, and Alexandre Hoang Thiéry. <br>
 
 - <b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
 Feng Yin, <b>Zhidi Lin</b>,  Qinglei Kong, Yue Xu, Deshi Li, Sergios Theodoridis and Shuguang Cui. <em>IEEE Open Journal of Signal Processing</em>, vol. 1, pp. 187-215, November 2020. <br>
