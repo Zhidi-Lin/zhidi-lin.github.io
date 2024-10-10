@@ -9,12 +9,10 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-##### **Talks:** 
-<br>
+#### **Talks:** 
 
-- ###### **09 Sep 2024**: Gave a talk at the Department of Statistics & Data Science, NUS
-  <br> **Introduction to Gaussian Process State-Space Models**
-  <br>
+- **09 Sep 2024**: Gave a talk at the Department of Statistics & Data Science, NUS <br>
+  **Introduction to Gaussian Process State-Space Models** <br>
 
 - ###### **18 Jul 2024**: Contributed talk at the [International Conference on Scientific Computation and Differential Equations (SciCADE)](<https://www.scicade2024.org/>)
   <br> **Ensemble Kalman Filtering Meets Gaussian Process State-Space Models**
