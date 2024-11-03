@@ -24,8 +24,9 @@ Previously, I earned my Ph.D. in Computer and Information Engineering at [The Ch
 I am currently focused on research areas that include:
 - Data-driven dynamical system modeling
 - Approximate Bayesian inference
-- Data assimilation
+- High-dimensional data assimilation
 - Gaussian processes
+- Diffusion models
 
 ### 🔥 News
 - 2024.09: Invited to serve as Reviewer for ICLR 2025, AISTATS 2025, ICASSP 2025.
