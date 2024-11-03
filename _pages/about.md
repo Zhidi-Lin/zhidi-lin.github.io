@@ -46,6 +46,3 @@ I am currently focused on research areas that include:
 - **Email**: zhidilin [AT] nus.edu.sg
 - **Address**: Department of Statistics and Data Science, NUS Block S16, Level 8, 6 Science Drive 2, Singapore 117546
 
-
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=480&t=tt&d=vH8fQRnhHz5RJKfd1EBio7_0GPYts_KeV8P-I3keHSY'></script>
-
