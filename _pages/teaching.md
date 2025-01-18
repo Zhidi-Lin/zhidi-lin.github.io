@@ -8,8 +8,8 @@ nav_order: 5
 ---
 
 ### 🏫 Services
-* Journal Reviewer: IEEE TSP, IEEE TMC, Elsevier Signal Processing, IEEE JSAC, IEEE Access, etc.
-* Conference Reviewer: ICML, NeurIPS, ICLR, UAI, IEEE ICASSP, IEEE FUSION, IEEE SAM, etc.
+* Journal Reviewer: IEEE TSP, IEEE TMC, Elsevier Signal Processing, IEEE JSAC, IEEE SPL, JASA, IEEE Access, etc.
+* Conference Reviewer: ICML, NeurIPS, ICLR, UAI, AISTATS, IEEE ICASSP, IEEE FUSION, IEEE SAM, etc.
 
 ### 👨‍🏫 Teaching
 - Spring 2023: Teaching Assistant, CUHK-Shenzhen. Undergrad Course, MAT2040 Linear Algebra. **Instructor: Prof. Dongdong He**
