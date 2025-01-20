@@ -23,6 +23,9 @@ nav_order: 2
 </div></div> -->
 
 ## Journal
+- <b>[Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel](<https://arxiv.org/pdf/2309.08201>)</b><br> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, Jan 2025. <br>
+Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Sergios Theodoridis. <br>
+ 
 - <b>[Ensemble Kalman filtering meets Gaussian process SSM for non-mean-field and online inference](<https://ieeexplore.ieee.org/document/10643488>)</b><br> <em>IEEE Transactions on Signal Processing</em>, August 2024. <br>
  <b>Zhidi Lin</b>,  Yiyong Sun, Feng Yin, and Alexandre Hoang Thiéry. <br>
 
