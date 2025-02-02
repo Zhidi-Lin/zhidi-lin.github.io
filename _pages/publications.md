@@ -26,7 +26,8 @@ nav_order: 2
 - <b>[Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel](<https://ieeexplore.ieee.org/abstract/document/10856719>)  [[code]](https://github.com/richardcsuwandi/slim-kl)</b><br> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, Jan 2025. <br>
 Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Sergios Theodoridis. <br>
  
-- <b>[Ensemble Kalman filtering meets Gaussian process SSM for non-mean-field and online inference](<https://ieeexplore.ieee.org/document/10643488>)</b><br> <em>IEEE Transactions on Signal Processing</em>, August 2024. <br>
+- <b>[Ensemble Kalman filtering meets Gaussian process SSM for non-mean-field and online inference](<https://ieeexplore.ieee.org/document/10643488>) 
+ [[code]](https://github.com/zhidilin/gpssmProj)</b><br> <em>IEEE Transactions on Signal Processing</em>, August 2024. <br>
  <b>Zhidi Lin</b>,  Yiyong Sun, Feng Yin, and Alexandre Hoang Thiéry. <br>
 
 - <b>[Fedloc: Federated learning framework for data-driven cooperative localization and location data processing](<https://ieeexplore.ieee.org/abstract/document/9250516>)</b><br>
