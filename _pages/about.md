@@ -26,7 +26,7 @@ My work revolves around **data-driven modeling and uncertainty-aware learning**,
 - **Generative models** (Diffusion models, Gaussian processes)  
 - **High-dimensional statistical learning**  
 
-I’m passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **[zhidilin@nus.edu.sg](<zhidilin@nus.edu.sg>)**! 
+I’m passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:zhidilin@nus.edu.sg">zhidilin@nus.edu.sg</a>**! 
 
 ### 🔥 News
 - 2025.01: Our paper entitled ["Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel"](https://ieeexplore.ieee.org/abstract/document/10856719) has been accepted by _IEEE Transactions on Neural Networks and Learning Systems_.
