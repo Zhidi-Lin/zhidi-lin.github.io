@@ -10,7 +10,7 @@ horizontal: false
 ---
 
 #### **Talks:** 
-- **Jun 2025**: Contributed talk/poster @ [Bayes Comp 2025 ](<https://bayescomp2025.sg),  <br>
+- **Jun 2025**: Contributed talk/poster @ [Bayes Comp 2025 ](<https://bayescomp2025.sg>),  <br>
   **Ensemble filtering in nonlinear dynamical systems** <br>
 
 - **Jun 2025**: Contributed talk @ Satellite Workshop ([Bayesian Methods for Distributional and Semiparametric Regression](<https://bayescomp2025.sg/#workshops>)), Bayes Comp 2025 <br>
