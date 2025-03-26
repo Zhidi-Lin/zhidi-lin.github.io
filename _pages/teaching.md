@@ -28,7 +28,7 @@ ICML, NeurIPS, ICLR, UAI, AISTATS, IEEE ICASSP, IEEE FUSION, IEEE SAM, and other
 - **MAT2040 Linear Algebra** (Undergraduate)  
   - Teaching Assistant: Spring 2023 (*Instructor: Prof. Dongdong He*), Fall 2022 (*Prof. Feng Yin*), Summer 2022 (*Prof. Chuan Huang*)  
 - **STA3010 Regression Analysis** (Undergraduate)  
-  - Teaching Assistant: Spring 2022 (Best TA Nomination), Spring 2021, Spring 2020 (*Instructor: Prof. Feng Yin*)  
+  - Teaching Assistant: Spring 2022 (**Best TA Nomination**), Spring 2021, Spring 2020 (*Instructor: Prof. Feng Yin*)  
 - **MAT3280 Probability Theory** (Undergraduate)  
   - Teaching Assistant: Fall 2020, Fall 2019 (*Instructor: Prof. Kenneth Shum*)  
 - **CIE6133/MCE5919 Gaussian Process for Machine Learning & Signal Processing** (Graduate)  
