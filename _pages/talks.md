@@ -10,6 +10,12 @@ horizontal: false
 ---
 
 #### **Talks:** 
+- **Jun 2025**: Contributed talk @ Satellite Workshop ([Bayesian Methods for Distributional and Semiparametric Regression](<https://bayescomp2025.sg/#workshops>)), Bayes Comp 2025 <br>
+  **Towards Flexibility and Learning Efficiency of Gaussian Process State-Space Models** <br>
+
+- **25 Mar 2025**: Gave a talk @ Huawei (Shanghai) <br>
+  **Towards Flexibility and Learning Efficiency of Gaussian Process State-Space Models** <br>
+
 
 - **09 Sep 2024**: Gave a talk at the Department of Statistics & Data Science, NUS <br>
   **Introduction to Gaussian Process State-Space Models** <br>
