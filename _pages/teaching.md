@@ -11,10 +11,10 @@ nav_order: 5
 **Journal Reviewer**  
 - Automatica
 - IEEE Transactions on Signal Processing (TSP), 
-- IEEE Transactions on Mobile Computing (TMC),
 - Elsevier Signal Processing,
+- IEEE Signal Processing Letters (SPL),
+- IEEE Transactions on Mobile Computing (TMC),
 - IEEE Journal on Selected Areas in Communications (JSAC), 
-- IEEE Signal Processing Letters (SPL), 
 - Journal of the Acoustical Society of America (JASA), 
 - IEEE Access
 - ...
