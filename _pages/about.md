@@ -23,9 +23,9 @@ I completed my **Ph.D. in Computer and Information Engineering** at The Chinese 
 ### 📝 Research Interests  
 My work focuses on **data-driven modeling and uncertainty quantification**, with a focus on: 
 - **Dynamical systems** (Bayesian inference, data assimilation)  
-- **Generative models** (Diffusion processes, Gaussian processes, VAEs etc)  
+- **Generative models** (Diffusion models, Gaussian processes, VAEs, etc)  
 - **High-dimensional statistical learning** 
-- **Applications**: Target tracking, fault detection, time-series forecasting etc
+- **Applications**: Target tracking, fault detection, time-series forecasting, etc
 
 I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:zhidilin@nus.edu.sg">zhidilin@nus.edu.sg</a>**! 
 
