@@ -8,6 +8,7 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
+- 2025.04: Our paper entitled ["Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction"](https://arxiv.org/abs/2411.11576) has been accepted by _IEEE Transactions on Mobile Computing_.
 - 2025.01: Our paper entitled ["Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel"](https://ieeexplore.ieee.org/abstract/document/10856719) has been accepted by _IEEE Transactions on Neural Networks and Learning Systems_.
 - 2024.09: Invited to serve as Reviewer for ICLR 2025, AISTATS 2025, ICASSP 2025.
 - 2024.08: Our paper entitled ["Ensemble Kalman Filtering Meets Gaussian Process SSM for Non-Mean-Field and Online Inference"](https://doi.org/10.1109/TSP.2024.3448291) has been accepted by _IEEE Transactions on Signal Processing_.
