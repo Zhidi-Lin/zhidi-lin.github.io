@@ -23,6 +23,10 @@ nav_order: 2
 </div></div> -->
 
 ## Journal
+- <b>[Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction](<https://arxiv.org/abs/2411.11576>) </b><br> <em>IEEE Transactions on Mobile Computing</em>, Apr 2025. <br>
+Yiyong Sun, Jiajun He, <b>Zhidi Lin</b>, Wenqiang Pu, Feng Yin, Hing Cheung So. <br>
+
+
 - <b>[Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel](<https://ieeexplore.ieee.org/abstract/document/10856719>)  [[code]](https://github.com/richardcsuwandi/slim-kl)</b><br> <em>IEEE Transactions on Neural Networks and Learning Systems</em>, Jan 2025. <br>
 Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Sergios Theodoridis. <br>
  
