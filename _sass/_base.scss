@@ -21,16 +21,28 @@ table {
   }
 }
 
+// a, table.table a {
+//   color: var(--global-theme-color);
+//   &:hover {
+//     color: var(--global-theme-color);
+//     text-decoration: underline;
+//   }
+//   &:hover:after :not(.nav-item.dropdown) {
+//     width: 100%;
+//   }
+// }
 a, table.table a {
-  color: var(--global-theme-color);
+  color: var(--global-text-color);  // 改为使用文本颜色（黑色）
+  transition: color 0.2s ease;     // 添加平滑过渡效果
   &:hover {
-    color: var(--global-theme-color);
+    color: var(--global-hover-color); // 悬停时使用悬停颜色（红色）
     text-decoration: underline;
   }
   &:hover:after :not(.nav-item.dropdown) {
     width: 100%;
   }
 }
+
 
 figure, img {
   max-width: 90vw;
@@ -127,7 +139,7 @@ blockquote {
   a {
     color: inherit;
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--global-hover-color);  // 这里改为 var(--global-hover-color)
       text-decoration: none;
     }
   }
@@ -284,7 +296,7 @@ footer.fixed-bottom {
   a {
     color: var(--global-footer-link-color);
     &:hover {
-      color: var(--global-theme-color);
+      color: var(--global-hover-color);  // 这里改为 var(--global-hover-color)
       text-decoration: none;
     }
   }
@@ -381,7 +393,7 @@ footer.sticky-bottom {
       color: var(--global-text-color);
       text-decoration: none;
       &:hover {
-        color: var(--global-theme-color);
+        color: var(--global-hover-color);  // 这里改为 var(--global-hover-color)
       }
     }
   }
@@ -399,7 +411,7 @@ footer.sticky-bottom {
       color: $white-color;
       background-color: var(--global-theme-color);
       &:hover {
-        background-color: var(--global-theme-color);
+        background-color: var(--global-hover-color);
       }
     }
   }
@@ -410,7 +422,7 @@ footer.sticky-bottom {
 
 .distill {
   a:hover {
-    border-bottom-color: var(--global-theme-color);
+    border-bottom-color: var(--global-hover-color);
     text-decoration: none;
   }
 }
@@ -552,7 +564,7 @@ footer.sticky-bottom {
           padding-top: 0.25rem;
           padding-bottom: 0.25rem;
           &:hover {
-            color: var(--global-theme-color);
+            color: var(--global-hover-color);
             border-color: var(--global-theme-color);
           }
         }
@@ -646,7 +658,7 @@ html.transition *:after {
       color: var(--global-text-color-light);
       text-decoration: none;
       &:hover {
-        color: var(--global-theme-color);
+        color: var(--global-hover-color);
       }
     }
   }
