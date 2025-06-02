@@ -16,12 +16,12 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 ### 👨🏻‍🎓 About Me  
-Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm **Zhidi Lin (林志地)**, a [Research Fellow](<https://www.stat.nus.edu.sg/people/research-fellow-assistant/>) at the National University of Singapore (NUS) working with Prof. [Alexandre Thiéry](https://alexxthiery.github.io/) and Prof. [Jeremy Heng](https://sites.google.com/view/jeremyheng/). My research focuses on the intersection of **control theory, generative modeling, and Bayesian inference** to tackle challenges in **high-dimensional dynamical systems**.
+Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> I'm **Zhidi Lin (林志地)**, a [Research Fellow](<https://www.stat.nus.edu.sg/people/research-fellow-assistant/>) at the National University of Singapore (NUS) working with Prof. [Alexandre Thiéry](https://alexxthiery.github.io/) and Prof. [Jeremy Heng](https://sites.google.com/view/jeremyheng/). My research focuses on the intersection of control theory, generative modeling, and Bayesian inference to tackle challenges in high-dimensional dynamical systems.
 
-I completed my **Ph.D. in Computer and Information Engineering** at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in 2024, where I was fortunate to be advised by Prof. [Feng Yin](https://blsp-group.github.io/) and Prof. [Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). Before that, I earned my **M.Sc.**  from Xiamen University under Prof. Qi Yang and Prof. [Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong), and spent two years as a **Research Associate** at the Shenzhen Research Institute of Big Data (SRIBD), collaborating with Prof. [Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and Prof. [Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en).  
+I completed my Ph.D. in Computer and Information Engineering at The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in 2024, where I was fortunate to be advised by Prof. [Feng Yin](https://blsp-group.github.io/) and Prof. [Shuguang Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). Before that, I earned my M.Sc.  from Xiamen University under Prof. Qi Yang and Prof. [Xuemin Hong](https://www.researchgate.net/profile/Xuemin-Hong), and spent two years as a Research Associate at the Shenzhen Research Institute of Big Data (SRIBD), collaborating with Prof. [Dongliang Duan](https://scholar.google.com/citations?user=OEDs9p8AAAAJ&hl=en) and Prof. [Liuqing Yang](https://scholar.google.com/citations?user=dmOGdOYAAAAJ&hl=en).  
 
 ### 📝 Research Interests  
-My work focuses on **data-driven modeling and uncertainty quantification**, with a focus on: 
+My work focuses on data-driven modeling and uncertainty quantification, with a focus on: 
 - **Dynamical systems** (Bayesian inference, data assimilation)  
 - **Generative models** (Diffusion models, Gaussian processes, VAEs, etc)  
 - **High-dimensional statistical learning** 
