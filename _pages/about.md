@@ -19,7 +19,7 @@ Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" 
 
 I'm **Zhidi Lin (林志地)**, a [Research Fellow](<https://www.stat.nus.edu.sg/people/research-fellow-assistant/>) at the National University of Singapore (NUS) working with Prof. [Alexandre Thiéry](https://alexxthiery.github.io/) and Prof. [Jeremy Heng](https://sites.google.com/view/jeremyheng/). My research focuses on the intersection of control theory, generative modeling, and Bayesian inference to tackle challenges in high-dimensional dynamical systems.
 
-I earned my Ph.D. from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in 2024, where I was fortunate to be advised by Prof. [Feng Yin](https://blsp-group.github.io/) and Prof. [Shuguang (Robert) Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). 
+I completed my Ph.D. from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in 2024, where I was fortunate to be advised by Prof. [Feng Yin](https://blsp-group.github.io/) and Prof. [Shuguang (Robert) Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). 
 
 ### Research Interests:  
 My work focuses on data-driven modeling and uncertainty quantification, with a focus on: 
