@@ -1158,12 +1158,12 @@ a {
   // position: relative;
   color: var(--global-text-color);
   font-family: 'Roboto', sans-serif; /* 新增 */
-  font-weight: 400;                  /* 新增 */
+  font-weight: 200;                  /* 新增 */
   text-decoration: none;
   position: relative;
   
   &:hover {
-    font-weight: 500;                  /* 悬停时加粗 */
+    font-weight: 600;                  /* 悬停时加粗 */
     color: var(--global-hover-color) !important;
     text-decoration: none;
   }
