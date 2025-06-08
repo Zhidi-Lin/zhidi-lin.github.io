@@ -4,6 +4,15 @@
 
 /* --- GLOBAL VARIABLES --- */
 
+/* 强制所有链接使用主题色 */
+a {
+  color: var(--global-theme-color) !important;
+  
+  &:hover {
+    color: var(--global-hover-color) !important;
+  }
+}
+
 html {
   font-size: 16px;
   scroll-behavior: smooth;
