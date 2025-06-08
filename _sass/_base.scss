@@ -1160,6 +1160,7 @@ a {
   font-family: 'Open Sans', sans-serif; /* 新增 */
   font-weight: 500;                     /* 新增 */
   text-decoration: none;
+  position: relative;
   
   &:hover {
     font-weight: 600;                  /* 悬停时加粗 */
