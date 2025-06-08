@@ -1153,11 +1153,16 @@ swiper-container {
 /* --- LINKS --- */
 
 a {
-  color: var(--global-theme-color);
+  // color: var(--global-text-color);
+  // text-decoration: none;
+  // position: relative;
+  color: var(--global-text-color);
+  font-family: 'Open Sans', sans-serif; /* 新增 */
+  font-weight: 500;                     /* 新增 */
   text-decoration: none;
-  position: relative;
   
   &:hover {
+    font-weight: 600;                  /* 悬停时加粗 */
     color: var(--global-hover-color) !important;
     text-decoration: none;
   }
