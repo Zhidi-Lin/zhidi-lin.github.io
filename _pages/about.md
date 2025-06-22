@@ -28,7 +28,7 @@ My work focuses on data-driven modeling and uncertainty quantification, with a f
 - **High-dimensional statistical learning** 
 - **Applications**: Target tracking, fault detection, time-series forecasting, etc
 
-I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:zhidilin@nus.edu.sg">zhidilin@nus.edu.sg</a>**! 
+I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:linzhidi017@gmail.com">linzhidi017@gmail.com</a>**! 
 
 ### News:
 - 2025.04: Our paper entitled ["Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction"](https://arxiv.org/abs/2411.11576) has been accepted by _IEEE Transactions on Mobile Computing_.
@@ -48,7 +48,7 @@ I am passionate about interdisciplinary research and welcome collaborations with
 
 
 ### Contact:
-- **Email**: zhidilin [AT] nus.edu.sg
+- **Email**: linzhidi017 [AT] gmail.com
 - **Address**: Department of Statistics and Data Science, NUS Block S16, Level 8, 6 Science Drive 2, Singapore 117546
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=vH8fQRnhHz5RJKfd1EBio7_0GPYts_KeV8P-I3keHSY'></script>
