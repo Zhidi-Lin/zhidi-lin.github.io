@@ -50,7 +50,7 @@ I am passionate about interdisciplinary research and welcome collaborations with
 
 ### Contact:
 - **Email**: linzhidi017 [AT] gmail.com
-- **Address**: Department of Statistics and Actuarial Science, Run Run Shaw Building, University of Hong Kong
+- **Address**: Department of Statistics and Actuarial Science, Run Run Shaw Building, HKU, Hong Kong.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=vH8fQRnhHz5RJKfd1EBio7_0GPYts_KeV8P-I3keHSY'></script>
 
