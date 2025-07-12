@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-- See the full list of publications on [Google Scholar](https://scholar.google.com/citations?user=8BmRXqMAAAAJ&hl=en) (\*: equal contributions \#: corresponding author).
+- See the full list of publications on [Google Scholar](https://scholar.google.com/citations?user=8BmRXqMAAAAJ&hl=en) (\*: equal contributions, †: corresponding author)..
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -24,7 +24,7 @@ nav_order: 2
 
 ## Journal
 - <b>[Scalable Random Feature Latent Variable Models](<https://arxiv.org/abs/2410.17700>)[[code]](https://github.com/yingli1998/SRFLVM)</b><br> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, July 2025. <br>
-Ying Li, <b>Zhidi Lin\#</b>, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <br>
+Ying Li, <b>Zhidi Lin<sup>†</sup></b>, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <br>
 
 
 - <b>[Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction](<https://arxiv.org/abs/2411.11576>) </b><br> <em>IEEE Transactions on Mobile Computing</em>, Apr 2025. <br>
