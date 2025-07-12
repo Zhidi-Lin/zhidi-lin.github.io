@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-- See the full list of publications on [Google Scholar](https://scholar.google.com/citations?user=8BmRXqMAAAAJ&hl=en) (\*: equal contributions, †: corresponding author)..
+- See the full list of publications on [Google Scholar](https://scholar.google.com/citations?user=8BmRXqMAAAAJ&hl=en) (\*: equal contributions, †: corresponding author).
 
 <!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
