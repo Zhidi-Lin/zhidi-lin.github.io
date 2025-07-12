@@ -23,7 +23,7 @@ nav_order: 2
 </div></div> -->
 
 ## Journal
-- <b>[Scalable Random Feature Latent Variable Models](<https://arxiv.org/abs/2410.17700>)[[code]](https://github.com/yingli1998/SRFLVM)</b><br> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, July 2025. <br>
+- <b>[Scalable Random Feature Latent Variable Models](<https://arxiv.org/abs/2410.17700>) [[code]](https://github.com/yingli1998/SRFLVM)</b><br> <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>, July 2025. <br>
 Ying Li, <b>Zhidi Lin<sup>†</sup></b>, Yuhao Liu, Michael Minyi Zhang, Pablo M. Olmos, Petar M. Djurić. <br>
 
 
