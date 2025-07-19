@@ -8,7 +8,7 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
-- 2025.07: Our paper entitled ["Scalable Random Feature Latent Variable Models"](https://arxiv.org/abs/2410.17700) has been accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
+- 2025.07: Our paper entitled ["Scalable Random Feature Latent Variable Models"](https://ieeexplore.ieee.org/document/11081940) has been accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 
 - 2025.07: Relocating to HKU
   
