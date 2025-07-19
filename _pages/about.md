@@ -31,7 +31,7 @@ My work focuses on data-driven modeling and uncertainty quantification, with a f
 I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:linzhidi017@gmail.com">linzhidi017@gmail.com</a>**! 
 
 ### News:
-- 2025.07: Our paper entitled ["Scalable Random Feature Latent Variable Models"](https://arxiv.org/abs/2410.17700) has been accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
+- 2025.07: Our paper entitled ["Scalable Random Feature Latent Variable Models"](https://ieeexplore.ieee.org/document/11081940) has been accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 - 2025.07: Relocating to HKU
 - 2025.04: Our paper entitled ["Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction"](https://arxiv.org/abs/2411.11576) has been accepted by _IEEE Transactions on Mobile Computing_.
 - 2025.01: Our paper entitled ["Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel"](https://ieeexplore.ieee.org/abstract/document/10856719) has been accepted by _IEEE Transactions on Neural Networks and Learning Systems_.
