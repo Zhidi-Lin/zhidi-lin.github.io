@@ -17,7 +17,7 @@ social: true  # includes social icons at the bottom of the page
 
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
 
-I'm **Zhidi Lin (林志地)**, a [Research Fellow](<https://saasweb.hku.hk/staff/zhidilin/>) at the University of Hong Kong (HKU) working with [Prof. Edwin Fong](https://saasweb.hku.hk/staff/chefong/). Previously, I was a Research Fellow at the National University of Singapore (NUS) working with [Prof. Alexandre Thiéry](https://alexxthiery.github.io/) and [Prof. Jeremy Heng](https://sites.google.com/view/jeremyheng/). My research focuses on the intersection of control theory, generative modeling, and (generalized) Bayesian inference to tackle challenges in high-dimensional dynamical systems.
+I'm **Zhidi Lin (林志地)**, a [Research Fellow](<https://saasweb.hku.hk/staff/zhidilin/>) at the University of Hong Kong (HKU) working with [Prof. Edwin Fong](https://saasweb.hku.hk/staff/chefong/). Previously, I was a [Research Fellow](https://www.stat.nus.edu.sg/people/research-fellow-assistant/) at the National University of Singapore (NUS) working with [Prof. Alexandre Thiéry](https://alexxthiery.github.io/) and [Prof. Jeremy Heng](https://sites.google.com/view/jeremyheng/). My research focuses on the intersection of control theory, generative modeling, and (generalized) Bayesian inference to tackle challenges in high-dimensional dynamical systems.
 
 I completed my Ph.D. from The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen) in 2024, where I was fortunate to be advised by [Prof. Feng Yin](https://blsp-group.github.io/) and [Prof. Shuguang (Robert) Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao). 
 
@@ -31,6 +31,7 @@ My work focuses on data-driven modeling and uncertainty quantification, with a f
 I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:linzhidi017@gmail.com">linzhidi017@gmail.com</a>**! 
 
 ### News:
+- 2025.08: Our special session proposal, "[Bridging Signal Processing and Machine Learning with Gaussian Processes]()," has been accepted for [ICASSP 2026](https://2026.ieeeicassp.org/). Huge thanks to Prof. Petar Djuric and Prof. Feng Yin for co-organizing this session.
 - 2025.07: Our paper entitled ["Scalable Random Feature Latent Variable Models"](https://ieeexplore.ieee.org/document/11081940) has been accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 - 2025.07: Relocating to HKU
 - 2025.04: Our paper entitled ["Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction"](https://arxiv.org/abs/2411.11576) has been accepted by _IEEE Transactions on Mobile Computing_.

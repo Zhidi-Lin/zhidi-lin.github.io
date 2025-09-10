@@ -8,6 +8,8 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
+- 2025.08: Our special session proposal, "[Bridging Signal Processing and Machine Learning with Gaussian Processes]()," has been accepted for [ICASSP 2026](https://2026.ieeeicassp.org/). Huge thanks to Prof. Petar Djuric and Prof. Feng Yin for co-organizing this session.
+
 - 2025.07: Our paper entitled ["Scalable Random Feature Latent Variable Models"](https://ieeexplore.ieee.org/document/11081940) has been accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
 
 - 2025.07: Relocating to HKU
