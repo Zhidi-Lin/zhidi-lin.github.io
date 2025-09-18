@@ -52,6 +52,11 @@ Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Serg
 
 
 ## Conference
+- <b>["Multi-View Oriented GPLVM: Expressiveness and Efficiency"](https://arxiv.org/abs/2502.08253)  [[code]]() </b><br>
+<em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
+Zi Yang, Ying Li, <b>Zhidi Lin<sup>†</sup></b>, Michael Minyi Zhang, and Pablo M. Olmos. <be>
+
+
 - <b>[Preventing model collapse in Gaussian process latent variable models](https://openreview.net/pdf?id=4byOXWrJay)  [[code]](https://github.com/zhidilin/advisedGPLVM) </b><br>
 <em>International Conference on Machine Learning (ICML)</em>, 2024. <br>
 Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <be>
