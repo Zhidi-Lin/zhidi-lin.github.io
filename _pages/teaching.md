@@ -10,13 +10,13 @@ nav_order: 5
 ### 📝 Academic Services  
 **Journal Reviewer**  
 - Automatica
-- IEEE Transactions on Signal Processing (TSP), 
-- Elsevier Signal Processing,
-- IEEE Signal Processing Letters (SPL),
-- IEEE Transactions on Mobile Computing (TMC),
-- IEEE Journal on Selected Areas in Communications (JSAC), 
-- Journal of the Acoustical Society of America (JASA), 
-- IEEE Access
+- Elsevier Signal Processing
+- IEEE Signal Processing Letters (SPL)
+- IEEE Transactions on Signal Processing (TSP)
+- IEEE Transactions on Mobile Computing (TMC)
+- Transactions on Machine Learning Research (TMLR)
+- Journal of the Acoustical Society of America (JASA)
+- IEEE Journal on Selected Areas in Communications (JSAC)
 - ...
 
 
