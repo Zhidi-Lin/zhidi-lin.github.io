@@ -52,7 +52,7 @@ Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Serg
 
 
 ## Conference
-- <b>["Multi-View Oriented GPLVM: Expressiveness and Efficiency"](https://arxiv.org/abs/2502.08253)  [[code]]() </b><br>
+- <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://arxiv.org/abs/2502.08253)  [[code]]() </b><br>
 <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
 Zi Yang, Ying Li, <b>Zhidi Lin<sup>†</sup></b>, Michael Minyi Zhang, and Pablo M. Olmos. <be>
 
