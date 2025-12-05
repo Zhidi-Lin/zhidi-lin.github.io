@@ -8,6 +8,8 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
+- 2025.12: [Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309) has been accepted by _IEEE Transactions on Signal Processing_.
+
 - 2025.09: ["Multi-View Oriented GPLVM: Expressiveness and Efficiency"](https://arxiv.org/abs/2502.08253) has been accepted by _NeurIPs 2025_.
 
 - 2025.09: Serve as Reviewer for ICLR 2026, AISTATS 2026, ICASSP 2026.
