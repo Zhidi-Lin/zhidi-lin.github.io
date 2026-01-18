@@ -56,6 +56,11 @@ Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Serg
 
 
 ## Conference
+- <b>[Gaussian Process State-Space Models for Irregularly Sampled Sequential Data]()  </b><br>
+<em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2026. <br>
+Ying Li, <b>Zhidi Lin<sup></b>, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić,. <be>
+
+
 - <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://arxiv.org/abs/2502.08253)  [[code]]() </b><br>
 <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
 Zi Yang, Ying Li, <b>Zhidi Lin<sup>†</sup></b>, Michael Minyi Zhang, and Pablo M. Olmos. <be>
