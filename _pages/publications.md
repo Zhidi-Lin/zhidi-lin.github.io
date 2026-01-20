@@ -23,7 +23,7 @@ nav_order: 2
 </div></div> -->
 
 ## Journal
-- <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](<https://arxiv.org/abs/2503.18309>) [[code]](<https://github.com/zhidilin/gpssmProj>)</b><br> <em>IEEE Transactions on Signal Processing</em>, December 2025. <br>
+- <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](<https://ieeexplore.ieee.org/document/11298531>) [[code]](<https://github.com/zhidilin/gpssmProj>)</b><br> <em>IEEE Transactions on Signal Processing</em>, December 2025. <br>
 <b>Zhidi Lin</b>, Ying Li, Feng Yin, Juan Maroñas, Alexandre H. Thiéry. <br>
 
 
