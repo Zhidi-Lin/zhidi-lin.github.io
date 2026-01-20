@@ -31,7 +31,7 @@ My work focuses on data-driven modeling and uncertainty quantification, with a f
 I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:linzhidi017@gmail.com">linzhidi017@gmail.com</a>**! 
 
 ### News:
-<div style="max-height: 400px; overflow-y: auto; padding-right: 10px;">
+<div style="max-height: 300px; overflow-y: auto; padding-right: 10px; margin-bottom: 30px;">
 
 <ul style="margin-top: 0; padding-left: 20px;">
 
