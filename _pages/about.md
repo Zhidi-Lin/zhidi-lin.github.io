@@ -31,23 +31,36 @@ My work focuses on data-driven modeling and uncertainty quantification, with a f
 I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:linzhidi017@gmail.com">linzhidi017@gmail.com</a>**! 
 
 ### News:
-<!-- 开始滚动区域 -->
 <div style="max-height: 400px; overflow-y: auto; padding-right: 10px;">
 
-- 2025.12: [Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309) has been accepted by _IEEE Transactions on Signal Processing_.
-- 2025.09: ["Multi-View Oriented GPLVM: Expressiveness and Efficiency"](https://arxiv.org/abs/2502.08253) has been accepted by _NeurIPs 2025_.
-- 2025.09: Serve as Reviewer for ICLR 2026, AISTATS 2026, ICASSP 2026.
-- 2025.08: Special session, "[Bridging Signal Processing and Machine Learning with Gaussian Processes]()," has been accepted for [ICASSP 2026](https://2026.ieeeicassp.org/). Huge thanks to Prof. **Petar M. Djurić** and Prof. **Feng Yin** for co-organizing this session.
-- 2025.07: ["Scalable Random Feature Latent Variable Models"](https://ieeexplore.ieee.org/document/11081940) has been accepted by _IEEE Transactions on Pattern Analysis and Machine Intelligence_.
-- 2025.07: Relocating to HKU
-- 2025.04: ["Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction"](https://arxiv.org/abs/2411.11576) has been accepted by _IEEE Transactions on Mobile Computing_.
-- 2025.01: ["Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel"](https://ieeexplore.ieee.org/abstract/document/10856719) has been accepted by _IEEE Transactions on Neural Networks and Learning Systems_.
-- 2024.09: Invited to serve as Reviewer for ICLR 2025, AISTATS 2025, ICASSP 2025.
-- 2024.08: Our paper ["Ensemble Kalman Filtering Meets Gaussian Process SSM for Non-Mean-Field and Online Inference"](https://doi.org/10.1109/TSP.2024.3448291) has been accepted by _IEEE Transactions on Signal Processing_.
-- 2024.06: I joined NUS as a Research Fellow
-- 2024.06.13: I successfully defended my PhD
+<ul style="margin-top: 0; padding-left: 20px;">
 
-<!-- 结束滚动区域 -->
+<li><strong>2025.12</strong>: [Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309) has been accepted by <em>IEEE Transactions on Signal Processing</em>.</li>
+
+<li><strong>2025.09</strong>: ["Multi-View Oriented GPLVM: Expressiveness and Efficiency"](https://arxiv.org/abs/2502.08253) has been accepted by <em>NeurIPs 2025</em>.</li>
+
+<li><strong>2025.09</strong>: Serve as Reviewer for ICLR 2026, AISTATS 2026, ICASSP 2026.</li>
+
+<li><strong>2025.08</strong>: Special session, "[Bridging Signal Processing and Machine Learning with Gaussian Processes]()," has been accepted for [ICASSP 2026](https://2026.ieeeicassp.org/). Huge thanks to Prof. <strong>Petar M. Djurić</strong> and Prof. <strong>Feng Yin</strong> for co-organizing this session.</li>
+
+<li><strong>2025.07</strong>: ["Scalable Random Feature Latent Variable Models"](https://ieeexplore.ieee.org/document/11081940) has been accepted by <em>IEEE Transactions on Pattern Analysis and Machine Intelligence</em>.</li>
+
+<li><strong>2025.07</strong>: Relocating to HKU</li>
+
+<li><strong>2025.04</strong>: ["Hybrid Data-Driven SSM for Interpretable and Label-Free mmWave Channel Prediction"](https://arxiv.org/abs/2411.11576) has been accepted by <em>IEEE Transactions on Mobile Computing</em>.</li>
+
+<li><strong>2025.01</strong>: ["Sparsity-Aware Distributed Learning for Gaussian Processes with Linear Multiple Kernel"](https://ieeexplore.ieee.org/abstract/document/10856719) has been accepted by <em>IEEE Transactions on Neural Networks and Learning Systems</em>.</li>
+
+<li><strong>2024.09</strong>: Invited to serve as Reviewer for ICLR 2025, AISTATS 2025, ICASSP 2025.</li>
+
+<li><strong>2024.08</strong>: Our paper ["Ensemble Kalman Filtering Meets Gaussian Process SSM for Non-Mean-Field and Online Inference"](https://doi.org/10.1109/TSP.2024.3448291) has been accepted by <em>IEEE Transactions on Signal Processing</em>.</li>
+
+<li><strong>2024.06</strong>: I joined NUS as a Research Fellow</li>
+
+<li><strong>2024.06.13</strong>: I successfully defended my PhD</li>
+
+</ul>
+
 </div>
 
   
