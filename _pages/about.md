@@ -31,6 +31,7 @@ My work focuses on data-driven modeling and uncertainty quantification, with a f
 I am passionate about interdisciplinary research and welcome collaborations with statisticians, AI researchers, and signal processing experts. If you’d like to discuss ideas or potential projects, feel free to reach out at **<a href="mailto:zhidilin@link.cuhk.edu.cn">zhidilin@link.cuhk.edu.cn</a>** or **<a href="mailto:linzhidi017@gmail.com">linzhidi017@gmail.com</a>**! 
 
 ### News:
+<!-- 开始滚动区域 -->
 <div style="max-height: 400px; overflow-y: auto; padding-right: 10px;">
 
 - 2025.12: [Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](https://arxiv.org/abs/2503.18309) has been accepted by _IEEE Transactions on Signal Processing_.
@@ -46,7 +47,9 @@ I am passionate about interdisciplinary research and welcome collaborations with
 - 2024.06: I joined NUS as a Research Fellow
 - 2024.06.13: I successfully defended my PhD
 
+<!-- 结束滚动区域 -->
 </div>
+
   
 
 ### Miscellanies:

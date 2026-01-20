@@ -8,6 +8,7 @@ nav_order: 1
 display_categories: [work, fun]
 horizontal: false
 ---
+<!-- 开始滚动区域 -->
 <div style="max-height: 400px; overflow-y: auto; padding-right: 10px;">
 
 
@@ -58,4 +59,5 @@ horizontal: false
   
 - 2020.05: Paper entitled "[An Interpretable and Sample Efficient Deep Kernel for Gaussian Process](<http://proceedings.mlr.press/v124/dai20a.html>)" has been accepted by *UAI 2020*.
 
+<!-- 结束滚动区域 -->
 </div>
