@@ -12,9 +12,9 @@ horizontal: false
 
 <ul style="margin-top: 0; padding-left: 20px;">
 
-<li><strong>2025.12</strong>: <a href="https://arxiv.org/abs/2503.18309">Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems</a> has been accepted by <em>IEEE Transactions on Signal Processing</em>.</li>
+<li><strong>2025.12</strong>: <a href="https://ieeexplore.ieee.org/document/11298531">Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems</a> has been accepted by <em>IEEE Transactions on Signal Processing</em>.</li>
 
-<li><strong>2025.09</strong>: <a href="https://arxiv.org/abs/2502.08253">"Multi-View Oriented GPLVM: Expressiveness and Efficiency"</a> has been accepted by <em>NeurIPs 2025</em>.</li>
+<li><strong>2025.09</strong>: <a href="https://neurips.cc/virtual/2025/loc/san-diego/poster/116737">"Multi-View Oriented GPLVM: Expressiveness and Efficiency"</a> has been accepted by <em>NeurIPs 2025</em>.</li>
 
 <li><strong>2025.09</strong>: Serve as Reviewer for ICLR 2026, AISTATS 2026, ICASSP 2026.</li>
 
