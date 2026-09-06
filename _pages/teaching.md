@@ -2,22 +2,16 @@
 layout: page
 permalink: /teaching/
 title: Teaching & Service
-description: Teaching experience and academic service.
 nav: true
 nav_order: 5
 ---
 
 <div class="teaching-page">
-  <section class="teaching-section" aria-labelledby="teaching-experience">
-    <header class="teaching-section-header">
-      <p class="section-kicker">Teaching</p>
-      <h2 id="teaching-experience">Teaching Experience</h2>
-    </header>
-
+  <section class="teaching-section" aria-label="Teaching experience">
     <div class="institution-block">
       <div class="institution-header">
-        <h3>The Chinese University of Hong Kong, Shenzhen</h3>
-        <span>CUHK-Shenzhen</span>
+        <h2>The Chinese University of Hong Kong, Shenzhen</h2>
+        <span>Teaching Assistant</span>
       </div>
 
       <div class="course-list">
@@ -26,12 +20,11 @@ nav_order: 5
             <h4><span class="course-code">MAT2040</span>Linear Algebra</h4>
             <span class="course-level">Undergraduate</span>
           </div>
-          <p class="course-role">Teaching Assistant</p>
-          <dl class="course-offerings">
-            <div><dt>Spring 2023</dt><dd>Instructor: Prof. Dongdong He</dd></div>
-            <div><dt>Fall 2022</dt><dd>Instructor: Prof. Feng Yin</dd></div>
-            <div><dt>Summer 2022</dt><dd>Instructor: Prof. Chuan Huang</dd></div>
-          </dl>
+          <div class="course-offerings">
+            <div class="course-offering"><span class="course-term">Spring 2023</span><span class="course-instructor">Instructor: Prof. Dongdong He</span></div>
+            <div class="course-offering"><span class="course-term">Fall 2022</span><span class="course-instructor">Instructor: Prof. Feng Yin</span></div>
+            <div class="course-offering"><span class="course-term">Summer 2022</span><span class="course-instructor">Instructor: Prof. Chuan Huang</span></div>
+          </div>
         </article>
 
         <article class="course-card">
@@ -39,15 +32,12 @@ nav_order: 5
             <h4><span class="course-code">STA3010</span>Regression Analysis</h4>
             <span class="course-level">Undergraduate</span>
           </div>
-          <p class="course-role">Teaching Assistant</p>
-          <dl class="course-offerings">
-            <div>
-              <dt>Spring 2022 <span class="teaching-honor">Best TA Nomination</span></dt>
-              <dd>Instructor: Prof. Feng Yin</dd>
+          <div class="course-offerings">
+            <div class="course-offering">
+              <span class="course-term">Spring 2022 <span class="teaching-honor">Best TA Nomination</span> · Spring 2021 · Spring 2020</span>
+              <span class="course-instructor">Instructor: Prof. Feng Yin</span>
             </div>
-            <div><dt>Spring 2021</dt><dd>Instructor: Prof. Feng Yin</dd></div>
-            <div><dt>Spring 2020</dt><dd>Instructor: Prof. Feng Yin</dd></div>
-          </dl>
+          </div>
         </article>
 
         <article class="course-card">
@@ -55,11 +45,9 @@ nav_order: 5
             <h4><span class="course-code">MAT3280</span>Probability Theory</h4>
             <span class="course-level">Undergraduate</span>
           </div>
-          <p class="course-role">Teaching Assistant</p>
-          <dl class="course-offerings">
-            <div><dt>Fall 2020</dt><dd>Instructor: Prof. Kenneth Shum</dd></div>
-            <div><dt>Fall 2019</dt><dd>Instructor: Prof. Kenneth Shum</dd></div>
-          </dl>
+          <div class="course-offerings">
+            <div class="course-offering"><span class="course-term">Fall 2020 · Fall 2019</span><span class="course-instructor">Instructor: Prof. Kenneth Shum</span></div>
+          </div>
         </article>
 
         <article class="course-card">
@@ -67,17 +55,17 @@ nav_order: 5
             <h4><span class="course-code">CIE6133 / MCE5919</span>Gaussian Process for Machine Learning &amp; Signal Processing</h4>
             <span class="course-level">Graduate</span>
           </div>
-          <p class="course-role">Teaching Assistant</p>
-          <dl class="course-offerings">
-            <div><dt>Fall 2021</dt><dd>Instructor: Prof. Feng Yin</dd></div>
-          </dl>
+          <div class="course-offerings">
+            <div class="course-offering"><span class="course-term">Fall 2021</span><span class="course-instructor">Instructor: Prof. Feng Yin</span></div>
+          </div>
         </article>
       </div>
     </div>
 
     <div class="institution-block">
       <div class="institution-header">
-        <h3>Xiamen University</h3>
+        <h2>Xiamen University</h2>
+        <span>Teaching Assistant</span>
       </div>
 
       <div class="course-list">
@@ -86,20 +74,16 @@ nav_order: 5
             <h4>Algorithm Design &amp; Analysis</h4>
             <span class="course-level">Undergraduate</span>
           </div>
-          <p class="course-role">Teaching Assistant</p>
-          <dl class="course-offerings">
-            <div><dt>Spring 2017</dt><dd>Instructor: Prof. Defu Zhang</dd></div>
-          </dl>
+          <div class="course-offerings">
+            <div class="course-offering"><span class="course-term">Spring 2017</span><span class="course-instructor">Instructor: Prof. Defu Zhang</span></div>
+          </div>
         </article>
       </div>
     </div>
   </section>
 
   <section class="teaching-section" aria-labelledby="academic-service">
-    <header class="teaching-section-header">
-      <p class="section-kicker">Service</p>
-      <h2 id="academic-service">Academic Service</h2>
-    </header>
+    <h2 id="academic-service" class="teaching-section-title">Academic Service</h2>
 
     <div class="service-grid">
       <article class="service-card service-card-featured">
@@ -122,10 +106,7 @@ nav_order: 5
     </div>
 
     <div class="review-panel">
-      <div class="review-heading">
-        <p class="service-type">Peer Review</p>
-        <h3>Selected Reviewing Activities</h3>
-      </div>
+      <h3>Peer Review</h3>
 
       <div class="review-columns">
         <div>
