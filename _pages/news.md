@@ -2,11 +2,8 @@
 layout: page
 title: News
 permalink: /news/
-description: 
 nav: true
 nav_order: 1
-display_categories: [work, fun]
-horizontal: false
 ---
 <div style="max-height: 700px; overflow-y: auto; padding-right: 10px;">
 

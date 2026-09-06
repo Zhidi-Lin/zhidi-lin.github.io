@@ -2,17 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
-
-profile:
-  align: right
-  image: pic2.JPG
-  image_circular: false # crops the image to make it circular
-  address:
-
-news: false # includes a list of news items
-selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+profile_image: pic2.JPG
 ---
 
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
@@ -77,4 +67,3 @@ I am passionate about interdisciplinary research and welcome collaborations with
 - **Address**: Department of Statistics and Actuarial Science, Run Run Shaw Building, HKU, Hong Kong.
 
 <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=500&t=tt&d=vH8fQRnhHz5RJKfd1EBio7_0GPYts_KeV8P-I3keHSY'></script>
-

@@ -1,1 +1,9 @@
-This is the source code from Jason Ansel's public academic website: [https://jonbarron.info/](https://jasonansel.com/). You are welcome to clone this code for your own personal use, just please attribute the source to the original website or to this repo. If you do clone this website, feel free to add an attribution link to your own downstream website in index.html if you want.
+# Zhidi LIN's homepage
+
+Source for <https://zhidi-lin.github.io/>. A push to `master` builds the Jekyll
+site and deploys it through GitHub Actions.
+
+```bash
+bundle install
+bundle exec jekyll build
+```

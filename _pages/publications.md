@@ -2,25 +2,11 @@
 layout: page
 permalink: /publications/
 title: Publications
-description:
 nav: true
 nav_order: 2
 ---
 
 - See the full list of publications on [Google Scholar](https://scholar.google.com/citations?user=8BmRXqMAAAAJ&hl=en) (\*: equal contributions, †: corresponding author).
-
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE ICASSP</div><img src='images/Graphical abstract.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Output-Dependent Gaussian Process State-Space Model](https://ieeexplore.ieee.org/document/9755128)
-
-**Zhidi Lin**, Lei Cheng, Feng Yin, Lexi Xu, Shuguang Cui
-
-[**Project**](https://ieeexplore.ieee.org/document/10095784) <strong><span class='show_paper_citations' data='cuDwCOwAAAAJ&hl=zh-CN'></span></strong>
-- We proposed a multi-level detection scheme inspired by human immune system against selective forwarding attacks in WSNs. 
-- The detection accuracy and the false alarm rate are much lower than other effective methods.
-- We also reduced the computation complexity to $$O(n)$$.
-</div></div> -->
 
 ## Journal
 - <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](<https://ieeexplore.ieee.org/document/11298531>) [[code]](<https://github.com/zhidilin/gpssmProj>)</b><br> <em>IEEE Transactions on Signal Processing</em>, December 2025. <br>
@@ -110,21 +96,3 @@ Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shug
 - <b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset](<https://ieeexplore.ieee.org/abstract/document/8641222>)</b><br>
 <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
 Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <br>
-
-
-{% for pub in page.pubs %}
-{% unless pub.hidden %}
-  - {% if pub.url %} [{{pub.title}}]({{pub.url}}).
-    {% else %} {{pub.title}}.
-    {% endif %}{% if pub.type %}({{pub.type}})
-    {% endif %}<br>
-    {{pub.author}}<br>
-    {% if pub.type == 'Technical Report' %}{{pub.number}}
-    {% endif %}{{pub.booktitle}}{{pub.school}}{{pub.journal}}<br>
-    {% if pub.address %}{{pub.address}}
-    {% endif %} {{pub.month}}, {{pub.year}} {% if pub.slides %}[Slides]({{pub.slides}}).
-    {% endif %}{% if pub.key %}[Bibtex](http://groups.csail.mit.edu/commit/bibtex.cgi?key={{pub.key}}).
-    {% endif %}{% if pub.bibtex %}[Bibtex]({{pub.bibtex}}).
-    {% endif %}
-{% endunless %}
-{% endfor %}

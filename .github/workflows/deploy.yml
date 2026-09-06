@@ -29,9 +29,6 @@ jobs:
           bundler: latest
           bundler-cache: true
 
-      - name: Install Mermaid CLI
-        run: npm install -g mermaid.cli
-
       - name: Configure Pages
         id: pages
         uses: actions/configure-pages@v6

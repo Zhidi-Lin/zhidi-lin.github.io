@@ -2,11 +2,8 @@
 layout: page
 title: Talks & Notes
 permalink: /talks/
-description: 
 nav: true
 nav_order: 3
-display_categories: [work, fun]
-horizontal: false
 ---
 
 #### **Talks:** 
@@ -39,7 +36,6 @@ horizontal: false
   **Towards Flexibility and Interpretability of Gaussian Process State-Space Models** <br>
 
 ### **Notes:** 
-
 
 
 

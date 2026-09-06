@@ -1,15 +1,232 @@
 ---
-# Only the main Sass file needs front matter (the dashes are enough)
 ---
 @charset "utf-8";
 
-// Dimensions
-$max-content-width: {{ site.max_width }};
+:root {
+  --background: #ffffff;
+  --surface: #f8fafc;
+  --text: #0f172a;
+  --muted: #64748b;
+  --accent: #0081cb;
+  --accent-hover: #0369a1;
+  --border: rgba(15, 23, 42, 0.08);
+}
 
-@import
-  "variables",
-  "themes",
-  "layout",
-  "base",
-  "distill"
-;
+html[data-theme="dark"] {
+  --background: #0f172a;
+  --surface: #1e293b;
+  --text: #f1f5f9;
+  --muted: #e2e8f0;
+  --accent: #0ea5e9;
+  --accent-hover: #38bdf8;
+  --border: rgba(255, 255, 255, 0.08);
+}
+
+html { scroll-behavior: smooth; }
+
+body {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  padding-top: 56px;
+  color: var(--text);
+  background: var(--background);
+  font-family: "Roboto", sans-serif;
+}
+
+main { flex: 1; }
+
+.container {
+  max-width: {{ site.max_width }};
+  padding-right: 1.5rem;
+  padding-left: 1.5rem;
+}
+
+p, h1, h2, h3, h4, h5, h6, li, strong, em, span, div {
+  color: var(--text);
+}
+
+h1, h2, h3, h4, h5, h6 {
+  margin-bottom: 1rem;
+  font-weight: 500;
+}
+
+h1 {
+  font-size: 2.5rem;
+  letter-spacing: -0.015em;
+}
+
+h2 { font-size: 1.8rem; }
+h3 { font-size: 1.5rem; }
+h4 { font-size: 1.2rem; }
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.2s ease;
+}
+
+a:hover {
+  color: var(--accent-hover);
+  text-decoration: none;
+}
+
+hr { border-top-color: var(--border); }
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+.navbar {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--border);
+  background: var(--background);
+  box-shadow: none;
+  opacity: 0.97;
+}
+
+.navbar.navbar-light .navbar-brand,
+.navbar.navbar-light .navbar-nav .nav-link {
+  color: var(--text);
+}
+
+.navbar.navbar-light .navbar-brand {
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+.navbar.navbar-light .navbar-nav .nav-link:hover { color: var(--accent-hover); }
+
+.navbar.navbar-light .navbar-nav .active > .nav-link {
+  color: var(--text);
+  font-weight: 700;
+}
+
+.navbar-toggler { border: 0; }
+
+.navbar-toggler .icon-bar {
+  display: block;
+  width: 22px;
+  height: 2px;
+  margin-bottom: 4px;
+  border-radius: 1px;
+  background: var(--text);
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+.navbar-toggler .top-bar {
+  transform: rotate(45deg);
+  transform-origin: 10% 10%;
+}
+
+.navbar-toggler .middle-bar { opacity: 0; }
+.navbar-toggler .bottom-bar {
+  transform: rotate(-45deg);
+  transform-origin: 10% 90%;
+}
+.navbar-toggler.collapsed .top-bar,
+.navbar-toggler.collapsed .bottom-bar { transform: rotate(0); }
+.navbar-toggler.collapsed .middle-bar { opacity: 1; }
+
+.navbar-brand.social {
+  padding: 0;
+  font-size: 1.7rem;
+}
+
+.social { text-align: center; }
+
+.social a {
+  display: inline-block;
+  margin: 0 0.15rem;
+}
+
+.social i::before {
+  color: var(--text);
+  transition: color 0.2s ease;
+}
+
+.social a:hover i::before { color: var(--accent-hover); }
+
+.contact-icons {
+  margin-top: 2rem;
+  font-size: 4rem;
+}
+
+.toggle-container {
+  display: flex;
+  align-items: center;
+  padding-left: 0.75rem;
+}
+
+#light-toggle {
+  padding: 0;
+  border: 0;
+  color: var(--text);
+  background: transparent;
+}
+
+#light-toggle:hover { color: var(--accent-hover); }
+.fa-sun { display: none; }
+html[data-theme="dark"] .fa-sun { display: inline-block; }
+html[data-theme="dark"] .fa-moon { display: none; }
+
+.post-header { margin-bottom: 1.5rem; }
+
+.post-description {
+  color: var(--muted);
+  font-size: 0.875rem;
+}
+
+.profile {
+  width: 30%;
+  margin: 0 0 2rem 1rem;
+}
+
+.profile img {
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 4px 14px rgba(15, 23, 42, 0.12);
+  transition: transform 0.3s ease;
+}
+
+.profile img:hover { transform: scale(1.02); }
+
+footer {
+  margin-top: 4rem;
+  padding: 2rem 0;
+  border-top: 1px solid var(--border);
+  background: var(--surface);
+  font-size: 0.9rem;
+}
+
+progress {
+  position: fixed;
+  left: 0;
+  z-index: 1040;
+  width: 100%;
+  height: 2px;
+  border: 0;
+  appearance: none;
+  color: var(--accent);
+  background: transparent;
+}
+
+progress::-webkit-progress-bar { background: transparent; }
+progress::-webkit-progress-value { background: var(--accent); }
+progress::-moz-progress-bar { background: var(--accent); }
+
+@media (max-width: 575.98px) {
+  .profile {
+    float: none !important;
+    width: 100%;
+    margin: 0 0 2rem;
+  }
+
+  .navbar-brand.social { padding-left: 15px; }
+
+  .toggle-container {
+    justify-content: flex-end;
+    padding: 0.5rem 0;
+  }
+}
