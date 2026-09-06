@@ -146,7 +146,17 @@ img {
   transition: color 0.2s ease;
 }
 
-.social a:hover i::before { color: var(--accent-hover); }
+.social .brand-icon {
+  width: 1em;
+  height: 1em;
+  color: var(--text);
+  fill: currentColor;
+  vertical-align: -0.125em;
+  transition: color 0.2s ease;
+}
+
+.social a:hover i::before,
+.social a:hover .brand-icon { color: var(--accent-hover); }
 
 .contact-icons {
   margin-top: 2rem;
