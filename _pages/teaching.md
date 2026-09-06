@@ -7,20 +7,32 @@ nav_order: 5
 ---
 
 ### 📝 Academic Services  
+
+- **Organizer of Special Session @ ICASSP 2026**: 
+  
+  - Bridging Signal Processing and Machine Learning with Gaussian Processes
+
+- **TPC member**:
+  - IEEE Wireless Communications and Networking Conference (WCNC) 2026
+
+**PhD Dissertation Reviewer**  
+- Department of Statistical Sciences, University of Padova, Italy.
+
 **Journal Reviewer**  
-- Automatica
-- Elsevier Signal Processing
-- IEEE Signal Processing Letters (SPL)
 - IEEE Transactions on Signal Processing (TSP)
+- Journal of Computational and Graphical Statistics
 - IEEE Transactions on Mobile Computing (TMC)
 - Transactions on Machine Learning Research (TMLR)
-- Journal of the Acoustical Society of America (JASA)
+- Automatica
 - IEEE Journal on Selected Areas in Communications (JSAC)
+- Elsevier Signal Processing
+- IEEE Signal Processing Letters (SPL)
+- Journal of the Acoustical Society of America (JASA)
 - ...
 
 
 **Conference Reviewer**  
-ICML, NeurIPS, ICLR, UAI, AISTATS, IEEE ICASSP, IEEE FUSION, IEEE SAM, and others.  
+ICML, NeurIPS, ICLR, UAI, AISTATS, IEEE ICASSP.  
 
 ### 👨‍🏫 Teaching Experience  
 **The Chinese University of Hong Kong, Shenzhen (CUHK-Shenzhen)**  

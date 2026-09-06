@@ -35,7 +35,6 @@ nav_order: 3
 - **15 Dec 2023**: Contributed talk at the Doctoral Research Conference, SSE, CUHK-Shenzhen ([First Prize Award]()) <br>
   **Towards Flexibility and Interpretability of Gaussian Process State-Space Models** <br>
 
-### **Notes:** 
 
 
 
