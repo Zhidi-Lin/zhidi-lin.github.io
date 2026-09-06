@@ -32,13 +32,7 @@ exclude:
   - vendor
 
 plugins:
-  - jekyll-link-attributes
   - jekyll-sitemap
-
-external_links:
-  enabled: true
-  rel: external nofollow noopener
-  target: _blank
 
 academicons:
   version: "1.9.1"
