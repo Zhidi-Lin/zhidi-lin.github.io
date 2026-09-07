@@ -223,6 +223,7 @@ html[data-theme="dark"] .fa-moon { display: none; }
   font-size: 0.75rem;
   font-weight: 700;
   letter-spacing: 0.08em;
+  text-wrap: balance;
   text-transform: uppercase;
 }
 
@@ -338,7 +339,7 @@ html[data-theme="dark"] .fa-moon { display: none; }
 
 .service-grid {
   display: grid;
-  grid-template-columns: repeat(3, minmax(0, 1fr));
+  grid-template-columns: 1fr;
   gap: 0.9rem;
 }
 
@@ -371,8 +372,8 @@ html[data-theme="dark"] .fa-moon { display: none; }
 
 .review-columns {
   display: grid;
-  grid-template-columns: minmax(0, 2fr) minmax(12rem, 1fr);
-  gap: 2rem;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
 }
 
 .review-columns h4 {
@@ -380,6 +381,11 @@ html[data-theme="dark"] .fa-moon { display: none; }
   color: var(--muted);
   font-size: 0.85rem;
   font-weight: 600;
+}
+
+.review-columns > div + div {
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border);
 }
 
 .venue-list {
@@ -396,6 +402,7 @@ html[data-theme="dark"] .fa-moon { display: none; }
   padding-left: 0.9rem;
   font-size: 0.85rem;
   line-height: 1.5;
+  text-wrap: balance;
 }
 
 .venue-list li::before {
@@ -410,7 +417,7 @@ html[data-theme="dark"] .fa-moon { display: none; }
 }
 
 .venue-list-compact {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 footer {
