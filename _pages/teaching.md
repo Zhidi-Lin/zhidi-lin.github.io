@@ -97,18 +97,19 @@ nav_order: 5
         <h3>WCNC 2026</h3>
         <p>IEEE Wireless Communications and Networking Conference</p>
       </article>
-
-      <article class="service-card">
-        <p class="service-type">PhD Dissertation Reviewer</p>
-        <h3>University of Padova</h3>
-        <p>Department of Statistical Sciences, Italy</p>
-      </article>
     </div>
 
     <div class="review-panel">
       <h3>Peer Review</h3>
 
       <div class="review-columns">
+        <div>
+          <h4>PhD Dissertation</h4>
+          <ul class="venue-list">
+            <li>Department of Statistical Sciences, University of Padova, Italy</li>
+          </ul>
+        </div>
+
         <div>
           <h4>Journals</h4>
           <ul class="venue-list">
@@ -118,6 +119,7 @@ nav_order: 5
             <li>Transactions on Machine Learning Research (TMLR)</li>
             <li>Automatica</li>
             <li>IEEE Journal on Selected Areas in Communications (JSAC)</li>
+            <li>Elsevier Pattern Recognition</li>
             <li>Elsevier Signal Processing</li>
             <li>IEEE Signal Processing Letters (SPL)</li>
             <li>Journal of the Acoustical Society of America (JASA)</li>
