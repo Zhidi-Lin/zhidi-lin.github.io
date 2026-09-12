@@ -202,6 +202,82 @@ html[data-theme="dark"] .fa-moon { display: none; }
 
 .profile img:hover { transform: scale(1.02); }
 
+.publication-note {
+  margin: 0 0 1.5rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.publications-page h2,
+.talks-page h2 {
+  margin: 2.5rem 0 1rem;
+  padding-bottom: 0.65rem;
+  border-bottom: 1px solid var(--border);
+  font-size: 1.4rem;
+}
+
+.publications-page h2 + ul,
+.talks-page h2 + ul {
+  margin: 0 0 2rem;
+  padding-left: 1.25rem;
+}
+
+.publications-page h2 + ul > li,
+.talks-page h2 + ul > li {
+  margin-bottom: 1rem;
+  padding-left: 0.15rem;
+}
+
+.publications-page h2 + ul > li::marker,
+.talks-page h2 + ul > li::marker {
+  color: var(--accent);
+}
+
+.publications-page h2 + ul p {
+  margin: 0;
+  line-height: 1.6;
+}
+
+.publications-page h2 + ul p > b,
+.publications-page h2 + ul > li > b {
+  font-size: 1.02rem;
+  font-weight: 600;
+}
+
+.publications-page h2 + ul em {
+  color: var(--muted);
+}
+
+.talks-page h2 + ul {
+  margin-bottom: 0;
+}
+
+.talk-date {
+  color: var(--muted);
+  font-size: 0.88rem;
+  font-weight: 600;
+}
+
+.talk-title {
+  display: inline-block;
+  margin-top: 0.15rem;
+  font-size: 1.02rem;
+  font-weight: 600;
+  line-height: 1.45;
+}
+
+.talk-award {
+  display: inline-block;
+  margin-left: 0.35rem;
+  padding: 0.1rem 0.45rem;
+  border-radius: 999px;
+  color: var(--accent-hover);
+  background: rgba(14, 165, 233, 0.12);
+  font-size: 0.72rem;
+  font-weight: 600;
+  white-space: nowrap;
+}
+
 .teaching-page {
   --teaching-radius: 10px;
 }
@@ -266,13 +342,13 @@ html[data-theme="dark"] .fa-moon { display: none; }
 }
 
 .course-card {
-  padding: 1.15rem 1.25rem 1.1rem;
+  padding: 1.2rem 1.3rem;
   border-left: 3px solid var(--accent);
 }
 
 .course-header {
   display: flex;
-  align-items: flex-start;
+  align-items: center;
   justify-content: space-between;
   gap: 1rem;
 }
@@ -309,30 +385,43 @@ html[data-theme="dark"] .fa-moon { display: none; }
 }
 
 .course-offerings {
-  margin: 0.85rem 0 0;
-}
-
-.course-offering {
-  display: grid;
-  grid-template-columns: minmax(18rem, 1.35fr) minmax(12rem, 1fr);
+  display: flex;
+  align-items: flex-start;
   gap: 1rem;
-  padding: 0.4rem 0;
+  margin: 1rem 0 0;
+  padding-top: 0.9rem;
   border-top: 1px solid var(--border);
 }
 
-.course-term,
-.course-instructor {
-  margin: 0;
-  font-size: 0.86rem;
-  line-height: 1.5;
+.course-offerings-label {
+  flex: 0 0 auto;
+  padding-top: 0.35rem;
+  color: var(--muted);
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
-.course-term { font-weight: 500; }
-.course-instructor { color: var(--muted); }
+.course-terms {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.45rem;
+}
+
+.course-term {
+  display: inline-block;
+  padding: 0.25rem 0.55rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--background);
+  font-size: 0.86rem;
+  font-weight: 500;
+  line-height: 1.35;
+}
 
 .teaching-honor {
-  margin-left: 0.35rem;
-  padding: 0.15rem 0.45rem;
+  padding: 0.25rem 0.55rem;
   color: var(--accent-hover);
   background: rgba(14, 165, 233, 0.12);
 }
@@ -457,9 +546,14 @@ progress::-moz-progress-bar { background: var(--accent); }
     grid-template-columns: 1fr;
   }
 
-  .course-offering {
-    grid-template-columns: 1fr;
-    gap: 0.1rem;
+  .course-offerings {
+    align-items: stretch;
+    flex-direction: column;
+    gap: 0.45rem;
+  }
+
+  .course-offerings-label {
+    padding-top: 0;
   }
 
   .service-grid,

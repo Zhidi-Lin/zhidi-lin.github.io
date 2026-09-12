@@ -21,9 +21,12 @@ nav_order: 5
             <span class="course-level">Undergraduate</span>
           </div>
           <div class="course-offerings">
-            <div class="course-offering"><span class="course-term">Spring 2023</span><span class="course-instructor">Instructor: Prof. Dongdong He</span></div>
-            <div class="course-offering"><span class="course-term">Fall 2022</span><span class="course-instructor">Instructor: Prof. Feng Yin</span></div>
-            <div class="course-offering"><span class="course-term">Summer 2022</span><span class="course-instructor">Instructor: Prof. Chuan Huang</span></div>
+            <span class="course-offerings-label">Teaching terms</span>
+            <div class="course-terms">
+              <span class="course-term">Spring 2023</span>
+              <span class="course-term">Fall 2022</span>
+              <span class="course-term">Summer 2022</span>
+            </div>
           </div>
         </article>
 
@@ -33,9 +36,12 @@ nav_order: 5
             <span class="course-level">Undergraduate</span>
           </div>
           <div class="course-offerings">
-            <div class="course-offering">
-              <span class="course-term">Spring 2022 <span class="teaching-honor">Best TA Nomination</span> · Spring 2021 · Spring 2020</span>
-              <span class="course-instructor">Instructor: Prof. Feng Yin</span>
+            <span class="course-offerings-label">Teaching terms</span>
+            <div class="course-terms">
+              <span class="course-term">Spring 2022</span>
+              <span class="teaching-honor">Best TA Nomination</span>
+              <span class="course-term">Spring 2021</span>
+              <span class="course-term">Spring 2020</span>
             </div>
           </div>
         </article>
@@ -46,7 +52,11 @@ nav_order: 5
             <span class="course-level">Undergraduate</span>
           </div>
           <div class="course-offerings">
-            <div class="course-offering"><span class="course-term">Fall 2020 · Fall 2019</span><span class="course-instructor">Instructor: Prof. Kenneth Shum</span></div>
+            <span class="course-offerings-label">Teaching terms</span>
+            <div class="course-terms">
+              <span class="course-term">Fall 2020</span>
+              <span class="course-term">Fall 2019</span>
+            </div>
           </div>
         </article>
 
@@ -56,7 +66,10 @@ nav_order: 5
             <span class="course-level">Graduate</span>
           </div>
           <div class="course-offerings">
-            <div class="course-offering"><span class="course-term">Fall 2021</span><span class="course-instructor">Instructor: Prof. Feng Yin</span></div>
+            <span class="course-offerings-label">Teaching terms</span>
+            <div class="course-terms">
+              <span class="course-term">Fall 2021</span>
+            </div>
           </div>
         </article>
       </div>
@@ -75,7 +88,10 @@ nav_order: 5
             <span class="course-level">Undergraduate</span>
           </div>
           <div class="course-offerings">
-            <div class="course-offering"><span class="course-term">Spring 2017</span><span class="course-instructor">Instructor: Prof. Defu Zhang</span></div>
+            <span class="course-offerings-label">Teaching terms</span>
+            <div class="course-terms">
+              <span class="course-term">Spring 2017</span>
+            </div>
           </div>
         </article>
       </div>

@@ -6,7 +6,10 @@ nav: true
 nav_order: 2
 ---
 
-- See the full list of publications on [Google Scholar](https://scholar.google.com/citations?user=8BmRXqMAAAAJ&hl=en) (\*: equal contributions, †: corresponding author).
+<div class="publications-page" markdown="1">
+
+<p class="publication-note">See the full list of publications on <a href="https://scholar.google.com/citations?user=8BmRXqMAAAAJ&amp;hl=en">Google Scholar</a> (*: equal contributions, †: corresponding author).</p>
+
 
 ## Journal
 - <b>[Efficient Transformed Gaussian Process State-Space Models for Non-Stationary High-Dimensional Dynamical Systems](<https://ieeexplore.ieee.org/document/11298531>) [[code]](<https://github.com/zhidilin/gpssmProj>)</b><br> <em>IEEE Transactions on Signal Processing</em>, December 2025. <br>
@@ -42,19 +45,23 @@ Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Serg
 
 
 ## Conference
+- <b>[SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](<https://openreview.net/forum?id=nljvkUyZRy>)</b><br>
+YiKai Li, Quhui Ke, Jinglin Liang, Zhi-Yuan Zhang, <b>Zhidi Lin</b>, Shuangping Huang.
+
+
 - <b>[Gaussian Process State-Space Models for Irregularly Sampled Sequential Data]()  </b><br>
 <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2026. <br>
-Ying Li, <b>Zhidi Lin</b>, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić,. <be>
+Ying Li, <b>Zhidi Lin</b>, Yuhao Liu, Michael Minyi Zhang, Petar M. Djurić. <br>
 
 
 - <b>[Multi-View Oriented GPLVM: Expressiveness and Efficiency](https://arxiv.org/abs/2502.08253)  [[code]]() </b><br>
 <em>Conference on Neural Information Processing Systems (NeurIPS)</em>, 2025. <br>
-Zi Yang, Ying Li, <b>Zhidi Lin<sup>†</sup></b>, Michael Minyi Zhang, and Pablo M. Olmos. <be>
+Zi Yang, Ying Li, <b>Zhidi Lin<sup>†</sup></b>, Michael Minyi Zhang, and Pablo M. Olmos. <br>
 
 
 - <b>[Preventing model collapse in Gaussian process latent variable models](https://openreview.net/pdf?id=4byOXWrJay)  [[code]](https://github.com/zhidilin/advisedGPLVM) </b><br>
 <em>International Conference on Machine Learning (ICML)</em>, 2024. <br>
-Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <be>
+Ying Li\*, <b>Zhidi Lin</b>\*, Feng Yin, and Michael Minyi Zhang. <br>
 
 - <b>[Towards efficient modeling and inference in multi-dimensional Gaussian process state-space models](https://ieeexplore.ieee.org/document/10447126)  [[code]](https://github.com/zhidilin/gpssmProj) </b><br>
 <em>IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)</em>, 2024. <br>
@@ -96,3 +103,5 @@ Yijue Dai, Tianjian Zhang, <b>Zhidi Lin</b>, Feng Yin, Sergios Theodoridis, Shug
 - <b>[Online MEM based binary classification algorithm for China Mobile imbalanced dataset](<https://ieeexplore.ieee.org/abstract/document/8641222>)</b><br>
 <em> IEEE/CIC International Conference on Communications in China (ICCC)</em>, 2018. <br>
 Shuqing Lin, Feng Yin, <b>Zhidi Lin</b>, Yanbin Lin, Shuguang Cui, Teng Li, Fengli Yu, Wei Yu, Xuemin Hong, Jianghong Shi, Zhi-Quan Luo. <br>
+
+</div>
