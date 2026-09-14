@@ -47,7 +47,7 @@ Richard Cornelius Suwandi\*, <b>Zhidi Lin</b>\*, Feng Yin, Zhiguo Wang, and Serg
 ## Conference
 - <b>[SegPVSG: Panoptic Video Scene Graph Generation via Temporal Focusing and Generative Augmentation](<https://openreview.net/forum?id=nljvkUyZRy>)</b><br>
 <em>International Conference on Machine Learning (ICML)</em>, 2026. <br>
-- YiKai Li, Quhui Ke, Jinglin Liang, Zhi-Yuan Zhang, <b>Zhidi Lin</b>, Shuangping Huang.
+Yi-Kai Li, Quhui Ke, Jinglin Liang, Zhi-Yuan Zhang, <b>Zhidi Lin</b>, Shuangping Huang.
 
 
 - <b>[Gaussian Process State-Space Models for Irregularly Sampled Sequential Data]()  </b><br>
