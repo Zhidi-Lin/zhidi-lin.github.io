@@ -10,8 +10,8 @@ nav_order: 5
   <section class="teaching-section" aria-label="Teaching experience">
     <div class="institution-block">
         <div class="institution-header">
-          <h2>The Chinese University of Hong Kong, Shenzhen</h2>
-          <span>Teaching Assistant</span>
+          <h2>CUHK-Shenzhen</h2>
+          <span class="institution-role" role="img" aria-label="Role: Teaching Assistant" title="Role: Teaching Assistant"><span aria-hidden="true">🧑‍🏫</span> Teaching Assistant</span>
         </div>
 
         <div class="course-list">
@@ -21,7 +21,7 @@ nav_order: 5
               <span class="course-level">Undergraduate</span>
             </div>
             <div class="course-offerings">
-              <span class="course-offerings-label">Teaching terms</span>
+              <span class="course-offerings-label" role="img" aria-label="Teaching terms" title="Teaching terms"><i class="fas fa-calendar-alt" aria-hidden="true"></i></span>
               <div class="course-terms">
                 <span class="course-term">Spring 2023</span>
                 <span class="course-term">Fall 2022</span>
@@ -36,7 +36,7 @@ nav_order: 5
               <span class="course-level">Undergraduate</span>
             </div>
             <div class="course-offerings">
-              <span class="course-offerings-label">Teaching terms</span>
+              <span class="course-offerings-label" role="img" aria-label="Teaching terms" title="Teaching terms"><i class="fas fa-calendar-alt" aria-hidden="true"></i></span>
               <div class="course-terms">
                 <span class="course-term teaching-honor">Spring 2022 · Best TA Nomination</span>
                 <span class="course-term">Spring 2021</span>
@@ -51,7 +51,7 @@ nav_order: 5
               <span class="course-level">Undergraduate</span>
             </div>
             <div class="course-offerings">
-              <span class="course-offerings-label">Teaching terms</span>
+              <span class="course-offerings-label" role="img" aria-label="Teaching terms" title="Teaching terms"><i class="fas fa-calendar-alt" aria-hidden="true"></i></span>
               <div class="course-terms">
                 <span class="course-term">Fall 2020</span>
                 <span class="course-term">Fall 2019</span>
@@ -65,7 +65,7 @@ nav_order: 5
               <span class="course-level">Graduate</span>
             </div>
             <div class="course-offerings">
-              <span class="course-offerings-label">Teaching terms</span>
+              <span class="course-offerings-label" role="img" aria-label="Teaching terms" title="Teaching terms"><i class="fas fa-calendar-alt" aria-hidden="true"></i></span>
               <div class="course-terms">
                 <span class="course-term">Fall 2021</span>
               </div>
@@ -77,7 +77,7 @@ nav_order: 5
     <div class="institution-block">
         <div class="institution-header">
           <h2>Xiamen University</h2>
-          <span>Teaching Assistant</span>
+          <span class="institution-role" role="img" aria-label="Role: Teaching Assistant" title="Role: Teaching Assistant"><span aria-hidden="true">🧑‍🏫</span> Teaching Assistant</span>
         </div>
 
         <div class="course-list">
@@ -87,7 +87,7 @@ nav_order: 5
               <span class="course-level">Undergraduate</span>
             </div>
             <div class="course-offerings">
-              <span class="course-offerings-label">Teaching terms</span>
+              <span class="course-offerings-label" role="img" aria-label="Teaching terms" title="Teaching terms"><i class="fas fa-calendar-alt" aria-hidden="true"></i></span>
               <div class="course-terms">
                 <span class="course-term">Spring 2017</span>
               </div>

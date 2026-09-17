@@ -294,77 +294,85 @@ html[data-theme="dark"] .fa-moon { display: none; }
 }
 
 .service-type {
-  margin: 0 0 0.3rem;
+  margin: 0;
   color: var(--accent);
-  font-size: 0.75rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
+  font-size: 1.05rem;
+  font-weight: 600;
+  line-height: 1.5;
   text-wrap: balance;
 }
 
 .institution-block + .institution-block {
-  margin-top: 0.9rem;
+  margin-top: 2rem;
+  padding-top: 2rem;
+  border-top: 1px solid var(--border);
 }
 
 .institution-block {
-  padding: 1.2rem 1.3rem;
-  border: 1px solid var(--border);
-  border-top: 3px solid var(--accent);
-  border-radius: var(--teaching-radius);
-  background: var(--surface);
+  position: relative;
+  display: grid;
+  grid-template-columns: minmax(15rem, 0.35fr) minmax(0, 1fr);
+  column-gap: 1.25rem;
+  padding-left: 0.9rem;
+}
+
+.institution-block::before {
+  position: absolute;
+  top: 0.65rem;
+  left: 0;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--accent);
+  content: "";
+}
+
+.institution-block + .institution-block::before {
+  top: 2.65rem;
 }
 
 .institution-header {
-  display: flex;
-  align-items: baseline;
-  justify-content: space-between;
-  gap: 1rem;
-  margin-bottom: 0.9rem;
+  grid-column: 1;
+  margin-bottom: 0.75rem;
 }
 
 .institution-header h2 {
   margin: 0;
-  font-size: 1.15rem;
+  color: var(--accent);
+  font-size: 1.05rem;
   font-weight: 600;
+  line-height: 1.5;
 }
 
 .institution-header > span {
-  flex: 0 0 auto;
   color: var(--muted);
-  font-size: 0.85rem;
-  font-weight: 500;
+  font-size: 0.9rem;
+  line-height: 1.5;
+}
+
+.institution-role > [aria-hidden="true"] {
+  margin-right: 0.25rem;
 }
 
 .course-list {
+  grid-column: 2;
+  grid-row: 1;
   display: grid;
-  gap: 0.85rem;
+  gap: 0;
 }
 
 .institution-block .course-list {
-  gap: 0;
-  margin-left: 0.65rem;
-}
-
-.course-card,
-.service-card,
-.review-panel {
-  border: 1px solid var(--border);
-  border-radius: var(--teaching-radius);
-  background: var(--surface);
+  margin-left: 0;
 }
 
 .course-card {
-  padding: 1.2rem 1.3rem;
-}
-
-.institution-block .course-card {
-  padding: 1.2rem 0;
+  padding: 0 0 1rem;
   border: 0;
-  border-radius: 0;
   background: transparent;
 }
 
 .institution-block .course-card + .course-card {
+  padding-top: 1rem;
   border-top: 1px solid var(--border);
 }
 
@@ -377,73 +385,65 @@ html[data-theme="dark"] .fa-moon { display: none; }
 
 .course-header h4 {
   margin: 0;
-  font-size: 1.05rem;
+  font-size: 1rem;
   font-weight: 600;
-  line-height: 1.45;
+  line-height: 1.5;
 }
 
 .course-code {
   display: inline-block;
   margin-right: 0.55rem;
   color: var(--accent);
-  font-size: 0.78rem;
-  font-weight: 700;
-  letter-spacing: 0.035em;
+  font-size: 0.85rem;
+  font-weight: 600;
 }
 
 .course-level,
 .teaching-honor {
   display: inline-block;
-  border-radius: 999px;
-  font-size: 0.72rem;
+  font-size: 0.85rem;
   font-weight: 600;
-  white-space: nowrap;
 }
 
 .course-level {
-  padding: 0.25rem 0.6rem;
   color: var(--muted);
-  background: var(--background);
 }
 
 .course-offerings {
   display: flex;
-  align-items: flex-start;
+  align-items: baseline;
   gap: 0.65rem;
-  margin: 0.65rem 0 0;
+  margin: 0.35rem 0 0;
 }
 
 .course-offerings-label {
   flex: 0 0 auto;
-  padding-top: 0.35rem;
   color: var(--muted);
-  font-size: 0.7rem;
-  font-weight: 700;
-  letter-spacing: 0.08em;
-  text-transform: uppercase;
+  font-size: 0.85rem;
+  font-weight: 500;
 }
 
 .course-terms {
   display: flex;
   flex-wrap: wrap;
-  gap: 0.45rem;
+  gap: 0.2rem;
+}
+
+.course-term + .course-term::before {
+  margin-right: 0.2rem;
+  color: var(--muted);
+  content: ",";
 }
 
 .course-term {
   display: inline-block;
-  padding: 0.25rem 0.55rem;
-  border: 1px solid var(--border);
-  border-radius: 999px;
-  background: var(--background);
-  font-size: 0.86rem;
+  font-size: 0.9rem;
   font-weight: 500;
-  line-height: 1.35;
+  line-height: 1.5;
 }
 
 .teaching-honor {
-  padding: 0.25rem 0.55rem;
-  color: var(--accent-hover);
-  background: rgba(14, 165, 233, 0.12);
+  color: var(--accent);
 }
 
 .service-grid {
@@ -452,16 +452,15 @@ html[data-theme="dark"] .fa-moon { display: none; }
   gap: 0.9rem;
 }
 
-.service-card {
-  padding: 1.2rem;
-  border-top: 3px solid var(--accent);
-}
-
-.service-card h3,
+.service-content h3,
 .review-panel > h3 {
   margin: 0 0 0.55rem;
-  font-size: 1.05rem;
   font-weight: 600;
+}
+
+.service-content h3 {
+  font-size: 1rem;
+  line-height: 1.5;
 }
 
 .service-list {
@@ -470,27 +469,82 @@ html[data-theme="dark"] .fa-moon { display: none; }
   list-style: none;
 }
 
-.service-list li + li {
+.service-list > li {
+  position: relative;
+  padding-left: 0.9rem;
+}
+
+.service-list > li::before {
+  position: absolute;
+  top: 0.5rem;
+  left: 0;
+  width: 4px;
+  height: 4px;
+  border-radius: 50%;
+  background: var(--accent);
+  content: "";
+}
+
+.service-list > li + li {
   margin-top: 1rem;
   padding-top: 1rem;
   border-top: 1px solid var(--border);
 }
 
+.service-list > li + li::before {
+  top: 1.5rem;
+}
+
+.service-list > li:not(.service-review) {
+  display: grid;
+  grid-template-columns: minmax(15rem, 0.55fr) minmax(0, 1fr);
+  column-gap: 1.25rem;
+  align-items: start;
+}
+
+.service-list > li:not(.service-review) h3 {
+  margin: 0;
+}
+
+.service-list > li.service-review {
+  display: grid;
+  grid-template-columns: minmax(15rem, 0.55fr) minmax(0, 1fr);
+  column-gap: 1.25rem;
+  align-items: start;
+}
+
+.service-list > li.service-review > h3 {
+  margin: 0;
+  color: var(--accent);
+  font-size: 1.05rem;
+  line-height: 1.5;
+}
+
 .service-session-name {
+  display: block;
+  margin-top: 0.15rem;
+  font-size: 0.9rem;
   font-weight: 400;
 }
 
-.review-panel {
-  margin-top: 0.9rem;
-  padding: 1.25rem;
-  border-top: 3px solid var(--accent);
+.service-content .service-review .review-panel {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
 }
 
-.review-panel > h3 {
-  margin-bottom: 0;
-  padding-bottom: 0.9rem;
-  color: var(--accent);
-  border-bottom: 1px solid var(--border);
+.service-content .service-review .review-columns {
+  padding-top: 0;
+}
+
+.service-content .service-review .venue-list li {
+  padding-left: 0;
+}
+
+.service-content .service-review .venue-list li::before {
+  content: none;
 }
 
 .review-columns {
@@ -519,6 +573,11 @@ html[data-theme="dark"] .fa-moon { display: none; }
   margin: 0;
   padding: 0;
   list-style: none;
+}
+
+.journal-list,
+.venue-list-full {
+  grid-template-columns: 1fr;
 }
 
 .venue-list li {
@@ -576,6 +635,20 @@ progress::-moz-progress-bar { background: var(--accent); }
     gap: 0.35rem;
   }
 
+  .institution-block .course-list {
+    margin-left: 0;
+    margin-top: 0.75rem;
+    border-top: 1px solid var(--border);
+  }
+
+  .institution-block {
+    display: block;
+  }
+
+  .course-card {
+    padding: 1rem 0;
+  }
+
   .service-grid,
   .review-columns {
     grid-template-columns: 1fr;
@@ -593,6 +666,22 @@ progress::-moz-progress-bar { background: var(--accent); }
 
   .service-grid,
   .review-columns { gap: 0.8rem; }
+
+  .service-list > li:not(.service-review) {
+    display: block;
+  }
+
+  .service-list > li.service-review {
+    display: block;
+  }
+
+  .service-list > li:not(.service-review) .service-type {
+    margin-bottom: 0.25rem;
+  }
+
+  .service-list > li.service-review > h3 {
+    margin-bottom: 0.75rem;
+  }
 }
 
 @media (max-width: 575.98px) {
@@ -611,9 +700,7 @@ progress::-moz-progress-bar { background: var(--accent); }
 
   .teaching-section + .teaching-section { margin-top: 2.75rem; }
 
-  .course-card,
-  .service-card,
-  .review-panel { padding: 1rem; }
+  .course-card { padding: 1rem; }
 
   .service-grid,
   .review-columns,
