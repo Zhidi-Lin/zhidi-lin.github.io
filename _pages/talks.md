@@ -1,14 +1,12 @@
 ---
 layout: page
-title: Talks & Notes
+title: Talks
 permalink: /talks/
 nav: true
 nav_order: 3
 ---
 
 <div class="talks-page" markdown="1">
-
-## Talks
 
 - <span class="talk-date">Jun 2025</span> Contributed talk/poster at [Bayes Comp 2025](https://bayescomp2025.sg)<br>
  <span class="talk-title">Ensemble filtering in nonlinear dynamical systems</span>
@@ -35,6 +33,5 @@ nav_order: 3
  <span class="talk-title">Towards Flexibility and Interpretability of Gaussian Process State-Space Models</span>
 
 </div>
-
 
 
