@@ -11,7 +11,7 @@ nav_order: 5
     <div class="institution-block">
         <div class="institution-header">
           <h2>CUHK-Shenzhen</h2>
-          <span class="institution-role" role="img" aria-label="Role: Teaching Assistant" title="Role: Teaching Assistant"><span aria-hidden="true">🧑‍🏫</span> Teaching Assistant</span>
+          <span class="institution-role" role="img" aria-label="Role: Teaching Assistant" title="Role: Teaching Assistant"><span aria-hidden="true">👨‍🏫</span> Teaching Assistant</span>
         </div>
 
         <div class="course-list">
@@ -77,7 +77,7 @@ nav_order: 5
     <div class="institution-block">
         <div class="institution-header">
           <h2>Xiamen University</h2>
-          <span class="institution-role" role="img" aria-label="Role: Teaching Assistant" title="Role: Teaching Assistant"><span aria-hidden="true">🧑‍🏫</span> Teaching Assistant</span>
+          <span class="institution-role" role="img" aria-label="Role: Teaching Assistant" title="Role: Teaching Assistant"><span aria-hidden="true">👨‍🏫</span> Teaching Assistant</span>
         </div>
 
         <div class="course-list">

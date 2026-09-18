@@ -655,13 +655,21 @@ progress::-moz-progress-bar { background: var(--accent); }
   }
 
   .course-offerings {
-    align-items: stretch;
-    flex-direction: column;
-    gap: 0.45rem;
+    align-items: flex-start;
+    flex-direction: row;
+    gap: 0.5rem;
   }
 
   .course-offerings-label {
     padding-top: 0;
+  }
+
+  .course-terms {
+    min-width: 0;
+  }
+
+  .course-header h4 {
+    overflow-wrap: anywhere;
   }
 
   .service-grid,
@@ -700,7 +708,18 @@ progress::-moz-progress-bar { background: var(--accent); }
 
   .teaching-section + .teaching-section { margin-top: 2.75rem; }
 
-  .course-card { padding: 1rem; }
+  .course-card {
+    padding: 0.9rem 0;
+  }
+
+  .institution-block {
+    padding-left: 0.75rem;
+  }
+
+  .institution-role {
+    display: inline-block;
+    margin-top: 0.1rem;
+  }
 
   .service-grid,
   .review-columns,
