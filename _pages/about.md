@@ -7,9 +7,9 @@ profile_image: pic2.JPG
 
 Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"> 
 
-I'm **Zhidi Lin (林志地)**, an incoming Assistant Professor at The Education University of Hong Kong and currently a [Research Fellow](https://saasweb.hku.hk/staff/zhidilin/) at The University of Hong Kong, working with [Prof. Edwin Fong](https://saasweb.hku.hk/staff/chefong/). Previously, I was a [Research Fellow](https://www.stat.nus.edu.sg/people/research-fellow-assistant/) at National University of Singapore, where I worked with [Prof. Alexandre Thiéry](https://alexxthiery.github.io/) and [Prof. Jeremy Heng](https://sites.google.com/view/jeremyheng/). My research lies at the intersection of statistical signal processing, probabilistic machine learning, and dynamical systems, with an emphasis on uncertainty-aware modeling, inference, and decision-making.
-
-
+I'm **Zhidi Lin (林志地)**, an [Assistant Professor](https://www.eduhk.hk/mit/en/staff/linz) in the [Department of Mathematics and Information Technology (MIT)](https://www.eduhk.hk/mit/en/) at The Education University of Hong Kong (EdUHK). 
+Previously, I held postdoctoral research positions at The University of Hong Kong, working with [Prof. Edwin Fong](https://saasweb.hku.hk/staff/chefong/), and at the National University of Singapore, working with [Prof. Alexandre Thiéry](https://alexxthiery.github.io/) and [Prof. Jeremy Heng](https://sites.google.com/view/jeremyheng/). 
+My research lies at the intersection of statistical signal processing, probabilistic machine learning, and dynamical systems, with an emphasis on uncertainty-aware modeling, inference, and decision-making.
 
 I received my Ph.D. from The Chinese University of Hong Kong, Shenzhen in 2024, where I was fortunate to be advised by [Prof. Feng Yin](https://blsp-group.github.io/) and [Prof. Shuguang (Robert) Cui](https://scholar.google.com/citations?user=1o_qvR0AAAAJ&hl=en&oi=ao).
 
