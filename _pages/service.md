@@ -13,7 +13,7 @@ nav_order: 6
         <ul class="service-list">
           <li>
             <p class="service-type">Area Chair</p>
-            <h3>ICLR 2027</h3>
+            <h3>ICLR 2027, ICASSP 2027</h3>
           </li>
           <li>
             <p class="service-type">Special Session Organizer</p>
